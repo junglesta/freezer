@@ -483,7 +483,7 @@ h1 a, h2 a, h3 a, h4 a {
   margin-right: 1rem;
 }
 
-.navi{ stroke-width: 4;  }
+.up .chevron-up { stroke-width: 4;  }
 
 
 
@@ -523,9 +523,12 @@ h1 a, h2 a, h3 a, h4 a {
   width: 100%;
 }
 
-.footer img,
-.footer svg {
+.footer img {
   max-width: 5rem;
+}
+.powered svg {
+  max-width: 5rem;
+  height: 100px;
 }
 .sponsor, .powered, .copyright, .share{
   border-bottom: 2px solid black;
@@ -540,7 +543,10 @@ h1 a, h2 a, h3 a, h4 a {
 
 /*sponsor*/
 .sponsor img { max-width: 9rem;}
-.sponsor svg { max-width: 10rem;}
+.sponsor svg {
+  max-width: 10rem;
+  height: 115px;
+}
 .sponsor span{ display: block; }
 .sponsor a .words:first-child{
   font-size: 200%;
@@ -629,6 +635,7 @@ h1 a, h2 a, h3 a, h4 a {
 /*copyright*/
 .copyright svg{
   max-width: 2.5rem;
+  height: 60px;
 }
 .copyright a:hover{
   border-bottom: 1px solid black;
@@ -653,6 +660,9 @@ h1 a, h2 a, h3 a, h4 a {
 }
 .up svg{
   margin-top:0;
+  max-height: 50px;
+  max-width: 50px;
+  stroke-width: 4;
 }
 
 
@@ -791,7 +801,7 @@ blockquote p {
   .sponsor, .powered, .copyright, .share, .main h1 { border-bottom: 3px solid black;}
   .sponsor:hover, .powered:hover { border-right: 3px solid black; border-left: 3px solid black; }
   .menu a:hover { border: 3px solid black!important; }
-  .navi { stroke-width: 6;  }
+  svg.chevron-up { stroke-width: 6;  }
 
   .footer { width: calc(100% - 50vw); }
 
@@ -809,8 +819,6 @@ blockquote p {
     left: calc(50% - 170px);
     max-width: 35%;
     z-index: 1000;
-    /*background:
-		<circle id="bg" class="gray" cx="50" cy="50" r="49"/>    */
   }
 
   .home .text p {
@@ -962,19 +970,3 @@ blockquote p {
   width: 120px;
   height: 120px;
 }
-/*
-h1.qr:after {
-  content: url(https://chart.googleapis.com/chart?cht=qr&chs=120x120&chl=http://freezer.junglestar.org&choe=UTF-8);
-  position: absolute;
-  right: 0;
-  top: 75pt;
-}*/
-
-/*@media print {
-  h1:after {
-    content: url(https://chart.googleapis.com/chart?cht=qr&chs=150x150&chl=http://freezer.junglestar.org&choe=UTF-8);
-    position: absolute;
-    right: 0;
-    top: -50pt;
-  }
-}*/
