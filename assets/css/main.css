@@ -62,6 +62,11 @@ a {
   z-index: -1;
 }
 
+svg {
+  width: 100%;
+  height: 100%;
+}
+
 .illu {
   position: relative;
   display: block;
@@ -70,7 +75,7 @@ a {
 
 .illu img, .illu object, .illu svg {
   float: left;
-  max-height: 460px;
+  height: 460px;
 }
 
 
