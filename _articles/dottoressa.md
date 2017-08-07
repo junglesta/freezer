@@ -22,7 +22,7 @@ Appena giunto all’ospedale di Sondalo in Valtellina. Il tipo mi fa salire sull
 
 >“Milano... sono un ciuccianebbia!"
 
-#### Dunque, riassumendo: taglio sulla guancia, labbro spaccato, dente rotto, distorsione al ginocchio e costola incrinata.  Niente male, per oggi può bastare. mi portano nella saletta e mi fanno stendere sul lettino. Prima di tutto bisogna cucire.
+#### Dunque, riassumendo: taglio sulla guancia, labbro spaccato, dente rotto, distorsione al ginocchio e costola incrinata.  Niente male, per oggi può bastare. Mi portano nella saletta e mi fanno stendere sul lettino. Prima di tutto bisogna cucire.
 
 La dottoressa la vedo solo un secondo di sfuggita, prima che mi coprano gli occhi.
 E’ proprio una gran bella figa! Sembra una delle Charlie’s Angels, la biondona..
@@ -81,6 +81,7 @@ Ma non si aspettava il resto:
 Coglie senza offendersi! Già, proprio simpatica!
 
 Alla fine della prima cucitura lo stesso infermiere dice che è venuto un buon lavoro.
+
 Ripenso subito agli uomini che sono falsi..
 
 >"Anche adesso non devo credergli?"
@@ -91,7 +92,7 @@ Ma lei è rassicurante coma la mamma:
 
 Ok, mi sto innamorando della dottoressa, un classico! I punti sul labbro fanno anche più male, smetto di scherzare adesso.. ma non loro, e devo proprio trattenermi per non ridere.. stì bastardi!
 
-#### Dopo la cucitura è il momento del dentista. Poi torna lei e mi dice di spogliarmi. la prima cosa che penso è se mi sono rimaste gocce di pipì sulle mutande!
+#### Dopo la cucitura è il momento del dentista. Poi torna lei e mi dice di spogliarmi. La prima cosa che penso è se mi sono rimaste gocce di pipì sulle mutande!
 
 (Ragionevole preoccupazione del resto... la famosa legge dice: per quanto tu possa scrollarti il pisello, l’ultima goccia andrà sempre sulle mutande - Pongo non rompere)
 Fortunatamente non ne vedo... eheheheh.

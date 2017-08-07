@@ -8,7 +8,21 @@
 
   <body class="">
 
-    {% include header.html %}
+    {% include svg/defs.html %}
+
+    <header class="home header cf" role="banner">
+
+      {% include menu.html %}
+
+      <a href="{{ site.baseurl }}/">
+        <div class="cf">
+          <figure class="illu classic">
+            {% include svg/use.html id="icn--freezer-classic" class="freezer-classic" %}
+          </figure>
+        </div>
+      </a>
+
+    </header>
 
     <main class="main home" role="main">
 

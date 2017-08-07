@@ -2,17 +2,36 @@
 
 ---
 <!DOCTYPE html>
-<html lang="{{page.launguage}}">
+<html lang="{{page.language}}">
 
 {% include head.html %}
 
   <body class="post">
 
-    {% include header.html %}
+    {% include svg/defs.html %}
+
+    <header class="home header cf" role="banner">
+
+      {% include menu.html %}
+
+      <a href="{{ site.baseurl }}/">
+        <div class="cf">
+          {% include icon.html %}
+        </div>
+      </a>
+
+    </header>
 
     <main class="main project" role="main">
 
       <h1 itemprop="headline">{{page.title}}</h1>
+
+      <ul class="meta cf">
+        {% if page.year %}<li><em>Year</em> {{page.year}}</li>{% endif %}
+        {% if page.issue %}<li><em>Freezer Magazine</em> {{page.issue}}</li>{% endif %}
+        {% if page.tags %}<li><em>Tags</em> {{page.tags}}</li>{% endif %}
+        {% if page.author %}<li><em>Author</em> {{page.author}}</li>{% endif %}
+      </ul>
 
       <div class="text">
         {{ content }}
