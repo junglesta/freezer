@@ -2,7 +2,7 @@
 layout: article
 title: Puerto Rico
 author:  Ugo Corte
-icon: she-up
+icon: surf
 language: en
 year: 1997
 issue: 12
