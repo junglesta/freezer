@@ -1,13 +1,13 @@
-Title: Freezer Issues
+---
+layout: post
+title: Freezer Issues
+icon: camera
+language: en
+description: "1995>2000. 5 years. 27 free issues. Freezer magazine came as a striking lightning over a stagnant industry. It created its own distribution. | Freezer was really a lab designed to foster improvisation and to break schemes. At Freezer we enjoyed to push limits."
+---
 
-----
 
-Icon: camera
-
-----
-Text: 
-
-##27 
+##27
 | no. | year  | season            | shout               |
 | :-- | :---- | :---------------- | -------------------:|
 | 01 | 1994 | dicembre | Freezer numero zero |
@@ -22,7 +22,7 @@ Text:
 | 10 | 1996 | back to school | The amazing mag with english text |
 | 11 | 1996 | autunno | Freezer fa scuola, lo snowmag più copiato |
 | 12 | 1996 | natale | Freezer ti porta il nuovo.. Sei pronto? |
-| 13 | 1997 | inverno | E' vero che gli sciatori volano più alto degli snowboarders / Too punk for you! 
+| 13 | 1997 | inverno | E' vero che gli sciatori volano più alto degli snowboarders / Too punk for you!
 | 14 | 1997 | estate | Fatto a mano in italia |
 | 15 | 1997 | inizio stagione | Giving' all the idiots a brand new religion |
 | 16 | 1997 | prime nevi | Il "catalogo" più meglio che ciè che poi è anche aggratis |

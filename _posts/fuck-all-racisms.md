@@ -1,30 +1,22 @@
-Title: Fuck all racisms
+---
+layout: post
+title: Fuck all racisms
+author: Emi Mazzoni
+icon: clip
+language: it
+year: 1997
+issue: 15
+tags: Italiano
+description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Se pensate che scriveremo il solito articolo di tre coglioni che se ne vanno in giro per il mondo a surfare secret spot, senza nessuno in acqua, con onde della madonna, e con nessuno che ti rompe i coglioni, avete sbagliato bazza."
+---
 
-----
-
-Year: 1997
-
-----
-
-Issue: 15
-
-----
-
-Icon: clip
-
-----
-
-Author: Emi Mazzoni
-
-----
-Text: 
-### Se pensate che scriveremo il solito articolo di tre coglioni che se ne vanno in giro per il mondo a surfare secret spot, senza nessuno in acqua, con onde della madonna, e con nessuno che ti rompe i coglioni, avete sbagliato bazza. 
+### Se pensate che scriveremo il solito articolo di tre coglioni che se ne vanno in giro per il mondo a surfare secret spot, senza nessuno in acqua, con onde della madonna, e con nessuno che ti rompe i coglioni, avete sbagliato bazza.
 
 Matt, Jack e Leroy erano tre nostalgici di merda e John Milius, non altro che un nazista reganiano che fino all’altro giorno girava film cazzuti come “Alba Rossa” dove dei cubani sotto forma di extraterrestri rapivano una scuola di americani, fierissimi di esserlo, e li sodomizzavano tutti, in nome di Fidel e del Che.
 
 Mi dispiace deludervi ma noi non siamo affatto dei soul surfers, non surfiamo per avvicinarci a Dio, perché è uno stile di vita o cazzate del genere!
 
-Non ci facciamo il viaggio mentale tipo endless summer, big wednesday o nel miglior dei casi point break. 
+Non ci facciamo il viaggio mentale tipo endless summer, big wednesday o nel miglior dei casi point break.
 
 ### Siamo solo dei disadattati sociali che hanno capito che per andare a letto tranquilli è meglio stare nel terzo mondo che nella periferia di una città dimmerda.
 
@@ -36,7 +28,7 @@ Quando parlo di terzo mondo parlo di gente semplice che pesca all’alba per man
 
 ### Una persona non è quello che è costretta ad essere, ma è ciò che diventa di fronte alle diverse occasioni.
 
-Le mie occasioni sono diverse da quelle di un terzomondista. 
+Le mie occasioni sono diverse da quelle di un terzomondista.
 
 Lui non ha occasioni! Non sceglie lui di vivere tutta la vita in una capanna di fango misto bambù, né di mangiare riso bianco tutti i fuckin’santi giorni.
 

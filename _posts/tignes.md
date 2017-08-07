@@ -1,23 +1,15 @@
-Title: Tignes
+---
+layout: post
+title: Tignes
+author: Stefano Bergomi
+icon: snow
+language: it
+year: 2000
+issue: 26
+tags: Italiano
+description: "1995>2000. 5 years. 27 free issues. Freezer magazine. NEXT!... NEXT!... NEXT!... Siete pronti a sopportare tanti bei simpaticoni che alzano la manina per fare poi salti da mission impossible 3?"
+---
 
-----
-
-Year: 2000
-
-----
-
-Issue: 26
-
-----
-
-Author: Stefano Bergomi
-
-----
-
-Icon: snow
-
-----
-Text:
 ### NEXT!... NEXT!... NEXT!... Siete pronti a sopportare tanti bei simpaticoni che alzano la manina per fare poi salti da mission impossible 3?
 
 #### Ti piacerebbe avere una bella manovia in uno snowpark?
@@ -26,15 +18,15 @@ Potresti riuscire a fare la coda almeno ogni tanto?
 
 O magari preferisci aggrapparti come un babbuino e farla scarrucolare?
 
-Tignes “l’Espace Killy" è un posto avanti, dove cuore e lavoro viaggiano in direzione turismo e neve. 
+Tignes “l’Espace Killy" è un posto avanti, dove cuore e lavoro viaggiano in direzione turismo e neve.
 
 Lo snowpark è fresato e aperto puntualmente quasi ogni mattina verso le 8,30, sei jump, una spina, qualche slide e un pipe ormai in disuso all'alba di metà agosto, anche se provavano ancora a passarci il gatto (grandi!).
 
 #### La novità più bella? La musica, alta e bella, non si riesce a farne a meno dopo un po'. Per quanto riguarda chi ha spettacolato, da citare Ivo Letey, Eric Pernisco, Alex, un local che però si è lussato la spalla, dei maestri francesi molto decisi, Daniel Bigolin, un tipino spagnolo e uno inglese che giravano e ruotavano sul pro-jump. L'unico a tenere alta la bandiera era un tizio che si faceva tranquillamente tutta la spina in looping grabbato o in rodeo.
 
-Peccato che tutto questo è successo solo l'ultimo giorno (abile mossa commerciale o un saluto alla grande?). 
+Peccato che tutto questo è successo solo l'ultimo giorno (abile mossa commerciale o un saluto alla grande?).
 
-La prova tempo è stata egregiamente superata, dal 12 al 19 una bella settimana di sole al mattino sul ghiacciaio. 
+La prova tempo è stata egregiamente superata, dal 12 al 19 una bella settimana di sole al mattino sul ghiacciaio.
 
 Con il settimanale quest'anno avevi diritto alla piscina all'aperto davanti alle vette; oppure, sempre compreso, si poteva salire con una cabinovia da Tignes Le Lac.
 

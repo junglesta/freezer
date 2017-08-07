@@ -1,22 +1,14 @@
-Title: Brutto Vizio
-----
-
-Year: 1999
-
-----
-
-Issue: 19
-
-----
-
-Author: Giovanni Bruzzichelli
-
-----
-
-Icon: she-up
-
-----
-Text:
+---
+layout: post
+title: Brutto Vizio
+author: Giovanni Bruzzichelli
+icon: she-up
+language: it
+year: 1999
+issue: 19
+tags: Italiano
+description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Di solito si inizia da giovanissimi, per scherzo, perché lo fanno gli amici più grandi, per sentirsi parte del gruppo..."
+---
 
 ### E' un brutto vizio e ho deciso di smettere.
 

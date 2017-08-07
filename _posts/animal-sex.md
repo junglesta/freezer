@@ -1,35 +1,23 @@
-Title: Animal Sex
-
-----
-
-Year: 1997
-
-----
-
-Issue: 14
-
-----
-
-Author: prof. Ricky Darwin
-
-----
-
-Icon: exit
-
-----
-
-Tags: Italiano,
-
-----
-Text:
+---
+layout: post
+title: Animal Sex
+author: prof. Ricky Darwin
+icon: exit
+language: it
+year: 1997
+issue: 14
+tags: Italiano
+description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Lo sapevate che l’uomo è l’animale con il cazzo più grande in proporzione al resto del corpo? E sapete il perché?
+Perché le femmine di noi uomini sono le uniche ad avere l’orgasmo!"
+---
 
 ### Piccolo manuale di etologia
 
 
 ### L’etologia è quella scienza che studia il comportamento delle bestie, ovvero tutto quello che Piero Angela non vi ha mai detto, perché se no lo cacciavano dalla RAI.
 
-Lo sapevate che l’uomo è l’animale con il cazzo più grande in proporzione al resto del corpo? E sapete il perché? 
-Perché le femmine di noi uomini sono le uniche ad avere l’orgasmo! Pensate che culo, praticamente nella storia dell’evoluzione si sono selezionati maschi con il pisellone, così che le donne fossero sempre più contente. 
+Lo sapevate che l’uomo è l’animale con il cazzo più grande in proporzione al resto del corpo? E sapete il perché?
+Perché le femmine di noi uomini sono le uniche ad avere l’orgasmo! Pensate che culo, praticamente nella storia dell’evoluzione si sono selezionati maschi con il pisellone, così che le donne fossero sempre più contente.
 
 ### E loro per ringraziarci magari non ce la danno neanche!! Mentre vi misurate il picio, o, se donne, lo state misurando al vostro tipo, vi racconto qualche altra storiella.
 

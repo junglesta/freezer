@@ -1,12 +1,11 @@
-Title: Quotes
-
-----
-
-Icon: classic
-
-----
-
-Text:
+---
+layout: post
+title: Quotes
+icon: classic
+language: it
+tags: Italiano
+description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Ma voi vi fidate di una cosa che perde sangue 5 giorni al mese e non muore mai? "
+---
 
 >"Ma voi vi fidate di una cosa che perde sangue 5 giorni al mese e non muore mai?"
 
@@ -78,12 +77,12 @@ Nicola Portacci
 
 >Gli animali si drogano. Perché lo fanno?
 "La teoria più accreditata è che per gli animali la droga abbia una funzione di carattere evolutivo", afferma Giorgio Samorini. "In certe fasi ci vuole un momento di "deschematizzazione" per trovare nuove vie comportamentali". Elefanti, capre e formiche avrebbero quindi bisogno di "sballare" per far entrare in circolo nuove idee. Per "aprire le porte della percezione", si sarebbe detto qualche decennio fa. Ma animali che si drogano non è soltanto un curioso bestiario in versione lisergica. Samorini distingue fra scienza della droga (che si occupa del fenomeno) e tossicologia (che si occupa del problema). Vale a dire, il fenomeno non è necessariamente il problema. E così, pettirossi sconvolti e cavalli inebetiti potrebbero entrare di colpo nel dibattito sull'antiproibizionismo."
- 
+
 Mario Portanova su diario.it+
 
 
->"C: Ciao come ti chiami? 
-B: Barbara! però tutti mi chiamano BABE! 
+>"C: Ciao come ti chiami?
+B: Barbara! però tutti mi chiamano BABE!
 C: Ah come il porcellino coraggioso! ma ti chiamano così perchè sei coraggiosa o perché sei... ops scusa!"
 
 Checco all'Oktoberdest a una ragazza appena conosciuta.
@@ -144,7 +143,7 @@ Da snowboarding.at
 Emi su Ugo
 
 
->"Fai come se fossi a casa tua, amico" 
+>"Fai come se fossi a casa tua, amico"
 "ok, dov'è la coca?"
 
 Lorenzo a Juliano da Latino America
@@ -264,7 +263,7 @@ Simone a Rita
 
 >"Predichi bene e ruzzoli male" Emanuele di Roma
 "Ma mi stai prendendo per il culo??" Rita
-"Perchè, te senti sollevata?" 
+"Perchè, te senti sollevata?"
 
 Robertino da roma
 
@@ -310,7 +309,7 @@ Elio fotografo redattore di "freestyler" e "snowboarder", il clone italiano, par
 
 
 >"Dai… ci, un succo!" Romina
-"si succhiamoci!" 
+"si succhiamoci!"
 
 Elena
 
@@ -331,7 +330,7 @@ hai tre minuti di vita.. "
 Southpark The Movie
 
 
->"I seguaci del piercing o del tatuaggio hanno un ben preciso obiettivo: vogliono ostentare coraggio e dimostrare di essere posseduti sessualmente da qualcuno" 
+>"I seguaci del piercing o del tatuaggio hanno un ben preciso obiettivo: vogliono ostentare coraggio e dimostrare di essere posseduti sessualmente da qualcuno"
 
 Shere Hite su "Io Donna"
 
@@ -362,7 +361,7 @@ Fede
 MarcoX al Nevegal, BL cercando uno skipass usato
 
 
->"Dimmi che esiste ancora Varazze dopo il forza 9 di natale?!" Ettore Burdese. "Varazze esiste, la reputazione di qualcuno è sparita.." 
+>"Dimmi che esiste ancora Varazze dopo il forza 9 di natale?!" Ettore Burdese. "Varazze esiste, la reputazione di qualcuno è sparita.."
 
 Rokma
 
@@ -383,7 +382,7 @@ Chiara
 
 
 >"Vieni anche tu a fare gli Slide???" Kikko Ciapponi
-"Ma dove vuoi che vada io.. Mi slido il letto ..con Mathieu!" 
+"Ma dove vuoi che vada io.. Mi slido il letto ..con Mathieu!"
 
 Romina Masolini
 
@@ -400,7 +399,7 @@ Sgocciolando una fetta di pizza HUT, Romina Masolini
 
 >"Sani Alibabich poi lo sistemo io" Elena Rota
 "A pecoranza?" Kikko Ciapponi
-"No, è già tosato!" 
+"No, è già tosato!"
 
 Elena Rota
 
@@ -416,7 +415,7 @@ Da un editoriale Mambo
 "Backside in skate è qualunque cosa fatta girando la tavola nella direzione del rail (..) davanti del rider"
 "5 anni fa lo stance era completamente diverso.. una questione di moda che costringeva tutti a fare shifty, late 180, nosebone e jibbing selvaggio"
 "Babs è un rider super late"
-"Tweaked : termine importato nel freestyle solo ultimamente, usato per dare enfasi alla manovra" 
+"Tweaked : termine importato nel freestyle solo ultimamente, usato per dare enfasi alla manovra"
 "Quando facendo un bs air pieghi le gambe e inarchi la schiena allora stai facendo un method"
 "Ollie è il riuscire a saltare senza prendere la tavola con le mani"
 "mute air:.. grabbando con la mano in mezzo alle gambe"
@@ -466,4 +465,3 @@ Dal sacchetto Asso Panificatori Milano
 >"Ho scelto di diventare un writer, ho scelto la vita!"
 
 Sheriff
-

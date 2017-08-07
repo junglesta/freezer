@@ -1,26 +1,19 @@
-Title: Orgasmo Femminile? Guida.
-----
+---
+layout: post
+title: Orgasmo Femminile? Guida.
+author: Sarava
+icon: she-up
+language: en
+year: 1999
+issue: 22
+tags: English, Italiano
+description: "1995>2000. 5 years. 27 free issues. Freezer magazine.
+L’orgasmo femminile è un argomento sopravvalutato dagli uomini, quindi cari maschietti, vorrei, con questa mia, aiutarvi a togliervi alcune paralizzanti paure e tante infondate paranoie riguardo all'orgasmo femminile."
+---
 
-Year: 1999
+### L’orgasmo femminile è un argomento sopravvalutato dagli uomini, quindi cari maschietti, vorrei, con questa mia, aiutarvi a togliervi alcune paralizzanti paure e tante infondate paranoie riguardo all'orgasmo femminile.
 
-----
-
-Issue: 22
-
-----
-
-Icon: she-up
-
-----
-
-Author: Sarava
-
-----
-Text: 
-
-### L’orgasmo femminile è un argomento sopravvalutato dagli uomini, quindi cari maschietti, vorrei, con questa mia, aiutarvi a togliervi alcune paralizzanti paure e tante infondate paranoie riguardo all'orgasmo femminile. 
-
-Chi vi scrive é una donna e, quindi, una fonte attendibile. 
+Chi vi scrive é una donna e, quindi, una fonte attendibile.
 
 Cominciamo con un cenno alle vostre convinzioni machiste che costituiscono un fertile terreno dove le paranoie sbocciano vigorose e inestirpabili come la gramigna.
 
@@ -39,9 +32,9 @@ L'orgasmo vero e proprio nella donna é quello che provoca la contrazione ripetu
 
 Ecco lo sapevo direte tutte che la maggior parte delle donne con cui sono stato hanno fatto solo finta quelle troie.
 
-### No, cari, vi sbagliate a causa dei vostri pregiudizi. 
+### No, cari, vi sbagliate a causa dei vostri pregiudizi.
 
-La donna ha diversi e svariati modi di godere e l'orgasmo che vi ho appena descritto non é l'unico modo per lei di provare piacere. 
+La donna ha diversi e svariati modi di godere e l'orgasmo che vi ho appena descritto non é l'unico modo per lei di provare piacere.
 
 Una donna attratta da voi trae un intenso godimento fisico, che porta a sensazioni progressive sempre più intense e vicine all'orgasmo vero e proprio, da baci, abbracci, tenerezze varie.
 
@@ -53,13 +46,13 @@ Questo tipo di donna tende al possesso assoluto... sono delle collezioniste (pro
 Ma é ovvio che queste lacune non si riempiono con cazzi d'ogni genere e misura o, anche, di uno solo fino allo sfinimento e così la nevrotica si accorge ben presto di sentirsi sempre più vuota quanto più uomini si scopa, e va in crisi, ma.. tende a dare la colpa della sua insoddisfazione a voi.
 
 
-E' una vampira, dà molto poco, lascia intendere che, se voi foste diversi, potrebbe darvi molto di più, si prende tutto, comprese le vostre palle, e vi molla. 
+E' una vampira, dà molto poco, lascia intendere che, se voi foste diversi, potrebbe darvi molto di più, si prende tutto, comprese le vostre palle, e vi molla.
 
 E voi magari ci cascate e vi flagellate pensando sia tutta colpa vostra, della vostra virilità traditrice, della vostra mancanza di carattere, del vostro egoismo.
 Mandatela a fanculo e cercatene una che abbia meno problemi.
 
 Ma riprendiamo l'argomento orgasmo femminile.
-Per una donna é un grande godimento anche soltanto ricevervi dentro di sé, senza cercare l'orgasmo a tutti i costi - che ansia! 
+Per una donna é un grande godimento anche soltanto ricevervi dentro di sé, senza cercare l'orgasmo a tutti i costi - che ansia!
 
 Accogliere il vostro pene dentro la sua calda, umida, protettiva vagina senza chiedere nulla é, per la donna, un modo per donarsi a sua volta e questo é piacere, puro e semplice, scritto nel codice genetico femminile.
 

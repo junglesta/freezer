@@ -1,28 +1,14 @@
-Title: Parli Snow? Guida.
-
-----
-
-Year: 1997
-
-----
-
-Issue: 14
-
-----
-
-Author: Giovanni Bruzzichelli
-
-----
-
-Icon: tv
-
-----
-
-Tags: Guide
-
-----
-Text:
-
+---
+layout: post
+title: Parli Snow? Guida.
+author: Giovanni Bruzzichelli
+icon: tv
+language: it
+year: 1997
+issue: 14
+tags: Guide, Italiano
+description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Ecco qui un bel rifornito glossarietto dei termini tecnici dello snowboard dedicato a chi si è avvicinato da poco a questo magnifico gioco e vuole saperne di più"
+---
 
 ### Ecco qui un bel rifornito glossarietto dei termini tecnici dello snowboard dedicato a chi si è avvicinato da poco a questo magnifico gioco e vuole saperne di più.
 

@@ -1,28 +1,21 @@
-Title: Pazzi
-----
+---
+layout: post
+title: Pazzi
+author:  Gigi Keller
+icon: gasmask
+language: it
+year: 1999
+issue: 23
+tags: Italiano
+description: "1995>2000. 5 years. 27 free issues. Freezer magazine.
+lo scherzo che mi ha fatto Kikko e qualche altro amico che ho in giro..."
+---
 
-Year: 1999
-
-----
-
-Issue: 23
-
-----
-
-Author: Gigi Keller
-
-----
-
-Icon: gasmask
-
-----
-Text:
-
-#lo scherzo che mi ha fatto Kikko e qualche altro amico che ho in giro...
+# lo scherzo che mi ha fatto Kikko e qualche altro amico che ho in giro...
 
 _Suona il telefono cellulare_
 
-GGK: 
+GGK:
 >si?
 
 MAX:  
@@ -34,7 +27,7 @@ GGK:
 MAX:  
 >non ho da scrivere, cazzo, passatemi una penna stronzi, cazzo, neanche una penna avete, branco di idioti... (in sottofondo), questi qua non fanno un cazzo dalla mattina alla sera, PASSATEMI QUESTA CAZZO DI PENNA TESTE DI CAZZO. ..ok.. è arrivata la penna
 
-GGK: 
+GGK:
 > il numero è xxx
 
 MAX:  
@@ -42,82 +35,82 @@ MAX:
 
 _Seconda telefonata_
 
-GGK : 
+GGK :
 > Pronto chi è?
 
-Tel: 
+Tel:
 > sono xxx di MAX, la rivista.
 
-GGK: 
+GGK:
 > quindi?
 
-MAX: 
+MAX:
 > devo fare un intervista di snowboard, mi hanno dato il tuo numero, sono solo quattro domande veloci perché dobbiamo andare in stampa subito... poi dammi delle risposte forti insomma che io devo fare i numeri, non "Si" "No" e robe del genere...
 
-GGK: 
+GGK:
 > ok...
 
-MAX: 
+MAX:
 > tu ne capisci di snowboard.. non che mi fai perdere tempo
 
-GGK: 
+GGK:
 > pare...
 
-MAX: 
+MAX:
 > ma tu non sei quello sponsorizzato dalla NITRO?
 
 GGK:  
 >già, senti non fai prima a mandarmi una mail, ti rispondo subito, così evitiamo il casino...
 
-MAX: 
+MAX:
 > no no, ho il telefono attaccato al registratore, (in sottofondo) CAZZO, STRONZI, ATTACCATE IL TELEFONO, NON SAPETE FARE UN CAZZO...
 
-GGK: 
+GGK:
 > dai, fai ste domande...
 
-MAX: 
+MAX:
 > dimmi quattro nomi di snowboarder bravi, ma non quei soliti teste di cazzo che si sentono solo loro e neanche dei Kratter, dei Kratter ne ho pieni i coglioni... cazzo mi parlano tutti di questi Kratter...
 
-GGK: 
+GGK:
 > ok... allora l'unico pro che valga la pena di essere citato è MAX Perot...
 
-MAX: 
+MAX:
 > ma no dai cazzo, quello è vecchio, c'era ancora quando andavo io...
 
-GGK: 
+GGK:
 > mi hai chiesto gente brava o no? allora Lukas Goller, Chicco Ciapponi, Danny...
 
-MAX: 
+MAX:
 > si, ma chi cazzo sono questi, dai dimmi... come si chiama quello... Norberto, Clemente una roba così.
 
-GGK: 
+GGK:
 > mi hai chiesto giovani o no? tu stai parlando di Alberto Clement?
 
-MAX: 
+MAX:
 > ehehe sisi,... come Alberto tomba, come ho fatto a dimenticarmelo...
 
-GGK: 
+GGK:
 > Alberto è da 10 anni che snowboarda, cmq...
 
-MAX: 
+MAX:
 > vabbeh.. allora me li dai sti nomi cazzo?
 
-GGK: 
+GGK:
 > te li ho gia dati...
 
-MAX: 
+MAX:
 > devi scandirli bene perché se no poi noi non capiamo un cazzo...
 GGK Lukas Goller, Danny Morandini, Werner Crazzolara, Alberto Clement e Chicco Ciapponi...
-MAX: 
+MAX:
 > e i Kratter no?
 
-GGK: 
+GGK:
 > ma porcodio.. mi hai detto che i kratter non li vuoi dentro... loro sono molto giovani..
 
-MAX: 
+MAX:
 > allora, dai passiamo ad un'altra domanda... che cosa senti quando fate le evoluzioni.. tipo.. ho letto di un tipo che diceva del soul e cazzate cosè.. dai tipo quando fate le acrobazie.. sentirete qualcosa o no.. dimmi qualcosa di forte perchè noi dobbiamo vendere, dobbiamo fare i numeri... tipo il doppio mortale.. dimmi quello che provi quando fai il doppio mortale..
 
-GGK: 
+GGK:
 > io il mortale non lo faccio, guarda che poi il mortale doppio lo fa solo un canadese... e poi sono tutte stronzate...
 
 MAX:  
@@ -155,4 +148,3 @@ MAX:
 
 GGK:  
 >ma vaffanculo te, testa di cazzo.. telefona a chi minchia vuoi... e ho messo giu.
-
