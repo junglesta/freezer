@@ -2,26 +2,25 @@
 
 ---
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{page.launguage}}">
 
 {% include head.html %}
 
-  <body class="">
+  <body class="post">
 
     {% include header.html %}
 
-    <main class="main home" role="main">
+    <main class="main project" role="main">
+
+      <h1 itemprop="headline">{{page.title}}</h1>
 
       <div class="text">
         {{ content }}
       </div>
 
-      {% include loop_posts.html %}
-
     </main>
 
     {% include footer.html %}
-
 
     {% include script_append_to_copy_action.html %}
 

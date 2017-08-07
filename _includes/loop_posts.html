@@ -1,0 +1,14 @@
+<!-- post-looper -->
+<ul class="teaser cf">
+  {% for article in site.articles %}
+  <li>
+    <a title="{{ article.title }}" href="{{ article.url | prepend: site.baseurl }}">
+
+      <h3>{{ article.title }}</h3>
+
+      <p>{{ article.content | strip_html }}</p>
+
+    </a>
+  </li>
+  {% endfor %}
+</ul>

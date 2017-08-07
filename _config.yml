@@ -23,3 +23,9 @@ exclude:
   - Gemfile
   - Gemfile.lock
 permalink: pretty
+
+
+collections:
+  articles:
+   output: true
+   permalink: /projects/:path/
