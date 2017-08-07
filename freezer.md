@@ -19,7 +19,7 @@ Freezer was really a lab designed to foster improvisation and to break schemes. 
 
 ### Freezer was fun.
 
-As our video "Picture 95" shows. Filming all over the Alps, well... mostly on the south side, for a whole year, we showed everybody what snowboarding was about in Italy in 1995. We where probably the first to do that kinda stuff here. Got some clips on YouTube. Just google: (link: http://www.youtube.com/playlist?list=PL_JCGUf7lroma7WLAJKy1uShs0NSNN6Mp text: youtube freezer magazine)
+As our video "Picture 95" shows. Filming all over the Alps, well... mostly on the south side, for a whole year, we showed everybody what snowboarding was about in Italy in 1995. We where probably the first to do that kinda stuff here. Got some clips on YouTube. Just google: [youtube freezer magazine](http://www.youtube.com/playlist?list=PL_JCGUf7lroma7WLAJKy1uShs0NSNN6Mp)
 
 ### Freezed.
 
