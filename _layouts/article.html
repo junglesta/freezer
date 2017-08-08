@@ -39,7 +39,7 @@
 
 
         <div class="kudoswrap">
-          <div class="kudos" data-amount="0" data-url="{{ site.url }}/{{ page.url | prepend: site.url }}"></div>
+          <div class="kudos" data-amount="0" data-url="{{ page.url | prepend: site.url | remove:'http://' }}"></div>
         </div>
 
       </div>
@@ -50,7 +50,7 @@
 
     {% include footer.html %}
 
-    
+
     {% include script_kudos.html %}
 
     {% include script_append_to_copy_action.html %}
