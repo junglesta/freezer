@@ -4,9 +4,8 @@ description: > # this means to ignore newlines until "baseurl:"
   This was Freezer magazine. A free-press project that had some impact on the italian scene.
 keywords: fun, info, free-press, italian, surfing, skateboarding, snowboarding, rokma
 baseurl: ""
-url: "http://freezer.junglestar.org"
-
-github_url: "https://github.com/junglesta/freezer"
+# url: "http://freezer.junglestar.org"
+url: "https://junglesta.github.io/freezer/"
 github_username:  toybreaker
 twitter_creator: rokmatwit
 google:
