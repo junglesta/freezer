@@ -7,18 +7,20 @@ language: it
 year: 1996
 issue: 9
 tags: Guide, Italiano
-description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Nel giro di due anni l’editoria snowboard è passata da una situazione di monopolio senza scelta né competizione ad avere per il prossimo anno sei pubblicazioni in italiano."
+description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Errori da evitare e consigli utili per quando vi dovete rivestire in fretta perche’ i genitori di lei sono tornati a casa prima del previsto dopo che avevano detto che sarebbero rimasti fuori tutta la sera e questo proprio mentre stavate stantuffando allegramente e anzi avevate quasi raggiunto insieme che non succede quasi mai il punto di non ritorno"
 ---
 
 *Sopratitolo:*
-#####_Le Guide Di Freezer Per Sopravvivere Meglio All’insegna Di... Peace, Love, Flowers, Magic Knorr, Ciupa-ciupa, Maxibon, Clitoris, Tarantino..._
-&nbsp;
+
+##### Le guide di freezer per sopravvivere meglio all’insegna di... Peace, Love, Flowers, Magic Knorr, Ciupa-ciupa, Maxibon, Clitoris, Tarantino...
 
 *Titolo:*
-###Errori Da Evitare E Consigli Utili Per Quando Vi Dovete Rivestire In Fretta Perche’ I Genitori Di Lei Sono Tornati A Casa Prima Del Previsto Dopo Che Avevano Detto Che Sarebbero Rimasti Fuori Tutta La Sera E Questo Proprio Mentre Stavate Stantuffando Allegramente E Anzi Avevate Quasi Raggiunto Insieme Che Non Succede Quasi Mai Il Punto Di Non Ritorno. Fine Del Titolo
+
+### Errori da evitare e consigli utili per quando vi dovete rivestire in fretta perche’ i genitori di lei sono tornati a casa prima del previsto dopo che avevano detto che sarebbero rimasti fuori tutta la sera e questo proprio mentre stavate stantuffando allegramente e anzi avevate quasi raggiunto insieme che non succede quasi mai il punto di non ritorno. Fine del titolo.
 
 *Intro:*
-####_Per prima cosa NON mantenete la calma! Vi sembra il momento? Non mettetevi a pensare come - mai - sono - qui - ma - non - dovevano - restare - fuori - tutta - la - sera? Vi distrae e basta, mentre invece dovrete concentrarvi e ripensare attentamente a questo articolo che vi sarete precedentemente studiati._
+
+##### Per prima cosa NON mantenete la calma! Vi sembra il momento? Non mettetevi a pensare come - mai - sono - qui - ma - non - dovevano - restare - fuori - tutta - la - sera? Vi distrae e basta, mentre invece dovrete concentrarvi e ripensare attentamente a questo articolo che vi sarete precedentemente studiati.
 
 *Pezzo vero e proprio:*
 
@@ -56,14 +58,23 @@ Ma soprattutto non fare come Felice, che dopo un recupero perfetto appariva al p
 ### E questo insegna l’ultima lezione: il preservativo è molto meglio tenerselo addosso!
 
 
-##In caso di sgamo!
+## In caso di sgamo!
 Rischi svariate penitenze, solitamente pesantine, tra cui essere:
+
 - diffidato dal presentarsi ancora a casa loro
+
 - diffidato dal rivedere ancora la figlia
+
 - inseguito per la casa
+
 - inseguito per la casa facendo da bersaglio a oggetti contundenti
+
 - picchiato selvaggiamente
+
 - atteso sotto casa tua dal padre e/o dal fratello maggiore di lei
+
 - denunciato se lei è troppo giovane (occhio Palmiro!)
+
 - costretto a sposarla
+
 - invitato a cena (possibilità un pò meno probabile delle altre)

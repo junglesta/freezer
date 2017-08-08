@@ -24,10 +24,10 @@ Deciso all'unanimità di seguire i fiorentini per il resto della strada, non sol
 ### Cose Da Non Comprare Negli Autogrill In Germania
 Banane. Panini al salame (attenti: non è salame!). Caffè. Kinder bueno (sono duplo!)
 
-###Cose Da Comprare Negli Autogrill In Germania
+### Cose Da Comprare Negli Autogrill In Germania
 Birra.
 
-###Arriviamo a Munster verso le cinque di pomeriggio di venerdì, mangiamo una pizza fritta veloce, dedichiamo due ore a digerirla e finalmente arriviamo davanti alla famosa hall, dove una massa informe di skaters si aggirava senza pretese (?): l'ingresso è rimandato al giorno dopo, dato che il prezzo (circa 20mila lire) si rivela eccessivo per 1 sola ora di Ammirazione-dei-Pro.
+### Arriviamo a Munster verso le cinque di pomeriggio di venerdì, mangiamo una pizza fritta veloce, dedichiamo due ore a digerirla e finalmente arriviamo davanti alla famosa hall, dove una massa informe di skaters si aggirava senza pretese (?): l'ingresso è rimandato al giorno dopo, dato che il prezzo (circa 20mila lire) si rivela eccessivo per 1 sola ora di Ammirazione-dei-Pro.
 
 Scopriamo che esiste uno skatepark poco lontano dalla hall, lo Skaters Palace, che si è rivelato un piccolo paradiso di legno e masonite, il tutto costruito dall'importatore più scaltro, intelligente, furbo e tirchio di tutta quanta la Germania (Titus).
 
@@ -52,7 +52,7 @@ Trovato, ci mettiamo a mangiare, e indovina chi viene a cena? Rodney Mullen, sol
 
 Impezzato regolarmente, ottenuta la sua firma e strettagli la mano ce ne andiamo soddisfatti, sia per quanto riguarda il nostro stomaco, sia per la favolosa cagata che ci siamo fatti tutti nel cesso più bello e futurista di Munster.
 
-###La sera si ripete come la precedente, solo che questa volta i tedeschi sono molto più barbari e cattivi: rovesciano un container in strada, tirano giù tutte le reti di recinzione della zona, spaccano ogni bottiglia di vetro che vedono e, non contenti, danno fuoco a delle bici, richiamando 5 camionette dei pompieri e un gran numero di curiosi come noi.
+### La sera si ripete come la precedente, solo che questa volta i tedeschi sono molto più barbari e cattivi: rovesciano un container in strada, tirano giù tutte le reti di recinzione della zona, spaccano ogni bottiglia di vetro che vedono e, non contenti, danno fuoco a delle bici, richiamando 5 camionette dei pompieri e un gran numero di curiosi come noi.
 
 Macello!
 
@@ -70,13 +70,13 @@ Il viaggio di ritorno, come al solito, sembra passare meglio, anche se lunedì m
 
 Se ci siete stati mi avrete capito, se non ci siete ancora stati spero di avervi invogliato ad andare, e se non ci vorrete andare mai... beh, peggio per voi.
 
-###Il Contest. Dunque, che dire del contest...
+### Il Contest. Dunque, che dire del contest...
 
 Le strutture erano le più ben fatte tra tutte quelle che ho visto in vita mia, complimenti a Dave Duncan. La gara di vert l'ho vista da lontano, ha vinto come al solito Tony Hawk.
 
 Altri che vedevo spaccare il culo erano Rune Glifberg, forse Bob Burnquist, non mi ricordo se c'era, poi Sluggo che ha fatto il backflip e ha vinto il best trick.
 
-La gara di street è qualcosa di speciale, è tutto diverso da come vedi nei video...Tra una run e l'altra partono di norma 5 skater che provano la loro session e nessuno gli dice niente, mi sembrava ci fosse poca organizzazione...
+La gara di street è qualcosa di speciale, è tutto diverso da come vedi nei video...Tra una run e l'altra partono di norma 5 skaters che provano la loro session e nessuno gli dice niente, mi sembrava ci fosse poca organizzazione...
 
 Comunque molti bei trick, anche innovativi: backside 540 indy di Moses Itkonen sul fun box, switch hardflip per salire il box alto di Donny Barley, kickflip backside tailslide di Stephan Giret sul box alto 1 metro (16 anni, è arrivato secondo davanti a Chris Senn), Mike Vallely sempre più incazzato con tutto e tutti.
 

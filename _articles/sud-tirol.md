@@ -12,7 +12,7 @@ description: "1995>2000. 5 years. 27 free issues. Freezer magazine. La redazione
 
 *La redazione di Freezer sensibile alle difficoltà linguistiche che i giovani snowboarders italiani incontrano viaggiando, introduce questa:*
 
-#Piccola guida per essere benvenuti in Sud Tirolo
+# Piccola guida per essere benvenuti in Sud Tirolo
 
 #### Saufmer pollamol piffl
 - Oh! sei troppo bravo in snowboard.

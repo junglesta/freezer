@@ -11,7 +11,8 @@ description: "1995>2000. 5 years. 27 free issues. Freezer magazine. A brand new 
 ---
 
 
-#English
+# English
+
 A brand new contemporary game where you can drive the latest WarJet™ in the all the SlaveNations®.
 
 Have fun jetting over snow resorts and under the CableCar®
@@ -23,7 +24,8 @@ Extra bonus if you cancel the crime video recordings.
 Other levels include Ustica and many more.
 Produced by LameExcuses™ it’s guaranteed RealFiction®, produced in the SilentMass® world lab.
 
-#Italiano
+# Italiano
+
 Puoi guidare in un WarJet™ da guerra in tutte le NazioniSchiave™, giocare a schizzare sopra le stazioni invernali, passare sotto le Funivie®, fare in pratica il cazzo che vuoi.
 
 Vincerai punti extra per ogni nave di Green Peace affondata, per ogni civile ucciso, più punti se accidentalmente ancora di più se non rispetti le regole.

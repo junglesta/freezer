@@ -16,7 +16,7 @@ Ok. deciso! parto per Los Anna col Sauda, la Betta, il Barone, la Danj, il Frati
 
 Arrivati al campeggio, dopo un lungo e faticoso viaggio fatto di sudore, paranoie e tanta,tanta simpatia,veniamo ghettizzati dai guardiani del camping nella malfamata "area skaters italia", dove confluiscono tutti i peggio maniaci criminali della riviera. poco male!
 
-#### Infatti le nostre facce sono perfettamente in armonia con le altre. la serata trascorre lieta all' insegna del buon umore e dell' aroma-terapia. il giorno seguente mi sveglio (...ancora in stato confusionale) e indosso la maschera del fotografo, che mi tolgo verso le 2 del pomeriggio per tornare a dormire ,ma non prima di incartarmi rovinosamente tornando al camping in skate, con la tecnica del piede freno.
+#### Infatti le nostre facce sono perfettamente in armonia con le altre. la serata trascorre lieta all' insegna del buon umore e dell' aroma-terapia. il giorno seguente mi sveglio (...ancora in stato confusionale) e indosso la maschera del fotografo, che mi tolgo verso le 2 del pomeriggio per tornare a dormire, ma non prima di incartarmi rovinosamente tornando al camping in skate, con la tecnica del piede freno.
 
 Tale tecnica (nella quale il Sauda è campione) consiste nell’appoggiare la suola della scarpa piatta sul terreno con pressione graduale per frenare la corsa dello skate.
 

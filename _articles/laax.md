@@ -16,7 +16,7 @@ Nell'allegro eremo sulle alpi in cui ci siamo ritirate per l'inverno un giorno a
 
 ...il gran baraccone del BoarderX - corredato pure di manifesti giganteschi di Palmer no.1 all'ingresso del parcheggio - veniva a fare le sue finali a Laax.
 
-Uno s'immagina che le facciano solamente i migliori (come dicono i giornali "seri") e invece no, tutti, purché dotati di codice ISF, potevano farle!
+Uno s'immagina che le facciano solamente i migliori (come dicono i giornali "seri") e invece no, tutti, purché dotati di codice ISF, potevano farle!  
 Ma a me e alla Romi non andava quindi...
 
 ### ...ci siamo improvvisate giornaliste, come no! La cosa che non ci aspettavamo è che al momento di ritirare l'accredito questi del media office ci hanno fatto compilare un foglio con i dati, fra cui anche il numero di tessera da giornalista. Io gli faccio che non ce l'ho, ma non serve, dai, Freezer è un giornale fatto dai riders per i riders tutti fratelli, poi ti giuro che scrivo, sé, so scrivere!  Beh, questa non m'ha creduto.
@@ -29,7 +29,7 @@ Per quel che riguarda il BoarderX era davvero molto bello: grande, veloce, con c
 
 La cosa non sarebbe neanche male se prima dello stacco non ci fossero stati dei gradini!
 
-###L'Alessia dice che l'han fatto proprio perché volevano che qualcuno ci cadesse dentro (sai che audience per Eurosport). Alla fine nessuno è involontariamente caduto. Volontariamente si è buttata la Giovanna Serblin con tanto di naso tappato per il tuffo ma Eurosport non la cagata.
+### L'Alessia dice che l'han fatto proprio perché volevano che qualcuno ci cadesse dentro (sai che audience per Eurosport). Alla fine nessuno è involontariamente caduto. Volontariamente si è buttata la Giovanna Serblin con tanto di naso tappato per il tuffo ma Eurosport non la cagata.
 
 Io non le credevo, non poteva essersi buttata di proposito invece ha detto che in partenza le è venuto un attacco di ridarella e alla fine si è tuffata; non so che droghe usi quella ragazza ma sarebbe ora che cambiasse pusher...
 

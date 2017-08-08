@@ -69,6 +69,7 @@ Tutto questo casino è presto molto stancante e comprendiamo perché i vecchi pa
 # L’esibizionismo.
 
 #### Quando un libanese ha dei soldi li mostra.
+
 ##### Tutti i segni esteriori di ricchezza si esibiscono.
 
 Vestiti lussuosi, macchine decapottabili, telefoni portatili, Ray-ban..
@@ -77,7 +78,7 @@ I libanesi ricercano anche gli stessi divertimenti che in Europa: bars alla moda
 
 Ogni tanto a Beirut, ci potremo presto sentire come in una capitale europea.
 
-#Hashish (1 parte).
+# Hashish (1 parte).
 
 #### Per noialtri europei, una delle specialità libanesi, è l’hashish.
 
@@ -98,6 +99,7 @@ Questo villaggio sarà dunque una delle nostre tappe.
 # Tyr e Saida.
 
 #### Per arrivare in queste conosciute città del sud, prendiamo un taxi collettivo.
+
 ##### 9 persone schiacciate in una vecchia mercedes e siamo in strada 3 davanti e sei dietro.
 
 A Saida, passiamo parecchie ore nel souk, il mercato, e scopriamo il piacere del Narghillè sciroppando spremuta di limone.
@@ -115,6 +117,7 @@ Passiamo tutto il primo pomeriggio con lui e i suoi amici a mangiare e bere sull
 # Sulla strada.
 
 #### Guidare in Libano può talvolta essere divertente ma si rivela spesso stressante.
+
 ##### Le regole sulla strada sono dettate da colui che suona il clacson più forte.
 
 Semafori rossi, cartelli stradali, nessuno li caga. I conducenti folli al volante di vecchie e grosse mercedes non si preoccupano di nessuno.
@@ -123,7 +126,7 @@ I locali sembrano perfettamente abituati e mantengono la loro calma in tutte le 
 
 Ma per gli occidentali che volgiono provare questo gioco, l’adrenalita è garantita. Soprattutto se portate la vettura in controsenso sull’autostrada..
 
-#L’autostop.
+# L’autostop.
 
 #### Direzione nord. Bus fino a Byblos, celebre città antica sul mare.
 
@@ -145,7 +148,8 @@ I Souks e i Khan di questa città sono magnifici, ma qui noi ci interessiamo sop
 
 La osserviamo dei mussulmani fare il bagno. Strano spettacolo di queste ragazze che nuotano e si tuffano coperte dalla testa ai piedi dalle loro djellaba nere.
 
-#Piaceri della tavola.
+# Piaceri della tavola.
+
 #### Il piatto tradizionale libanese si chiama Mezzè.
 
 Consiste in una moltitudine di piccoli piatti (insalate, grigliate, formaggi liquidi, pure di ceci) da bere con dell’Arack, un bibità alcolica al gusto anice.
@@ -155,6 +159,7 @@ Spesso fumiamo allo stesso tempo su un grosso Narghillè (waterpipe) differenti 
 # I Cedri.
 
 #### Il monte libano è la punta più alta del paese.
+
 ##### Ai suoi piedi una delle rare stazioni sciistiche del paese, che si chiama Cedres.
 
 Infatti è situata accanto a una delle ultime foreste di cedri del libano, celebre per la qualità dei suoi legni Il cedro è anche il simbolo del paese che troviamo sui drappi.
@@ -176,6 +181,7 @@ Girovagare nei templi che hanno più di 2000 anni procura un certo piacere (temp
 # Hashish (2 parte).
 
 #### Il famoso piccolo villaggio dove si coltiva ancora si trova non lontano da Balbeek.
+
 ##### Dei militari ci depositano a un incrocio e ci dicono che il villaggio si trova in fondo della strada, ma ci sconsigliano fortemente di andarci.
 
 Ci ritroviamo in mezzo a una pianura desertica, con giusto un garage al lato della strada.
@@ -191,6 +197,7 @@ Facciamo finta di essere dei turisti persi e ci proponiamo di ripartire al più 
 # Religione.
 
 #### In una strada, passeggiano due amici.
+
 ##### La prima porta un djellaba nero e un velo nasconde la sua faccia. L’altra è vestita di una minigonna e di una t-shirt attillata.
 
 Questo aneddoto riflette perfettamente la situazione di un paese che conta 18 religioni, principalmente cattolici e mussulmani.
@@ -199,7 +206,7 @@ Abbiamo provato a parlare a degli studenti di "laicità" ma nessuno ha capito di
 
 Malgrado i 15 anni di guerra i due amici possono o passeggiare assieme e ridere insieme. Tanto meglio.
 
-#Zahlè.
+# Zahlè.
 
 #### Ultima tappa, Zahlè è soprattutto conosciuta per i suoi Mezzè, investiamo i nostri ultimi dollari in un buon ristorante.
 

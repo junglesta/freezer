@@ -12,7 +12,9 @@ description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Col 31.1.200
 
 Tandadalen.. da qualche parte in Scandinavia.
 
-### Col 31.1.2000 scade il segreto. Tandadalen è un nome inventato dall’organizzatore di questa gara di snowboard. Sono sicuro che fosse in una regione continentale a cavallo fra Svezia e Norvegia, in quanto i singoli GPS davano un'incertezza elevata, ma triangolandone tre contemporaneamente siamo risaliti ad una ristretta zona nella taiga della regione di Salen.
+### Col 31.1.2000 scade il segreto. Tandadalen è un nome inventato dall’organizzatore di questa gara di snowboard.
+
+Sono sicuro che fosse in una regione continentale a cavallo fra Svezia e Norvegia, in quanto i singoli GPS davano un'incertezza elevata, ma triangolandone tre contemporaneamente siamo risaliti ad una ristretta zona nella taiga della regione di Salen.
 
 Ma procediamo per ordine.
 
@@ -31,7 +33,7 @@ All’aereoporto di un piccolo jet su pattini ci aspetta per portarci alla meta 
 
 Il volo è breve, non più di un'ora e mezza con la spiega; Tutti i nostri rulli dovranno essere consegnati all'organizzazione che fatti sviluppare li rende il 31 gennaio.
 
-###Si raccomanda di non farne menzione con nessuno, gli appoggi dell'organizzatore ci farebbero immediatamente screditare presso tutte le media del settore e non. Non si capisce cosa vogliano fare.  La cosa curiosa è che i finestrini sembrano gelati, in realtà è lavoro di spray per non farci vedere dove andiamo.
+### Si raccomanda di non farne menzione con nessuno, gli appoggi dell'organizzatore ci farebbero immediatamente screditare presso tutte le media del settore e non. Non si capisce cosa vogliano fare.  La cosa curiosa è che i finestrini sembrano gelati, in realtà è lavoro di spray per non farci vedere dove andiamo.
 
 Poco male, tanto pagano loro. Arrivati ci troviamo in una base smilitarizzata nei pressi di una collinetta come ce ne sono mille nel Sussex. 450 piedi di terra coperti da neve, un impianto sempre funzionante e illuminazione a giorno.
 
@@ -47,7 +49,7 @@ Parlo con Vincent Skoglund, che è di quelle parti, ma anche lui non sa niente.
 
 Questa frase mi ronza in testa per tutta la notte. L'indomani c'è il training di quarter e i soliti nomi si distinguono per bravura, gli sconosciuti girano bene, ma non sembrano all'altezza della struttura.
 
-A parte il fatto che nessuno li conosca e che tuttti parlano inglese perfetto e senza accento, per il resto sembra un evento normalissimo. A parte il fatto che non c'è nessuno a fare da pubblico.
+### A parte il fatto che nessuno li conosca e che tuttti parlano inglese perfetto e senza accento, per il resto sembra un evento normalissimo. A parte il fatto che non c'è nessuno a fare da pubblico.
 
 La giornata scorre via liscia, di sera non c'è molto da fare. Stiamo tutti nella stanza più grossa, la zona dei graduati della base, a bere birra e scambiarci convenevoli. Giorno due. Primo contest.
 
@@ -63,7 +65,7 @@ Non lo rivedremo per due settimane.
 
 L'organizzazione manda tutto a monte, annulla le date successive e ci prega di preparare le valige. Senza farci troppa fretta, ma con decisione, ci accompagnano alla pista e ci rimandano a Oslo.
 
-###Senza rulli torniamo a casa. In realtà avevo provato a fare il furbo, ma la pellicola che mi ero imboscato è uscita bianca: il vecchio metal detector mi ha bruciato tutte le immagini (oltre che due cassette dei Beastie Boys).
+### Senza rulli torniamo a casa. In realtà avevo provato a fare il furbo, ma la pellicola che mi ero imboscato è uscita bianca: il vecchio metal detector mi ha bruciato tutte le immagini (oltre che due cassette dei Beastie Boys).
 
 Mi congedo dai miei amici e me ne torno a casa sempre più convinto di essere il pollo di un gigantesco scherzo.
 
@@ -77,4 +79,4 @@ Dov'è stato Michi Albin?
 
 Perché proprio il 31.1.2000?
 
-Klaasifica: 1- Willie Luoma 2- R.de Marchi 3- J.Kaaferen 4- D.Benedek 5- R. Savoonen 6- I.Backman
+Klaasifica: 1 - Willie Luoma 2 - R.de Marchi 3 - J.Kaaferen 4 - D.Benedek 5 - R. Savoonen 6 - I.Backman

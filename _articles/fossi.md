@@ -10,7 +10,7 @@ tags: English
 description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Quante volte mi sono trovato innanzi alla mia tenera infanzia. Qualcosa di inconcepibilmente arcano. Animo ha spinto a cercare più a fondo nel percorso della vita che avevo deciso di tracciare nel mio futuro prossimo?"
 ---
 
-#Se almeno tu fossi un alieno
+# Se almeno tu fossi un alieno
 
 Quante volte mi sono trovato innanzi alla mia tenera infanzia. Qualcosa di inconcepibilmente arcano.
 
@@ -62,8 +62,11 @@ Azzardarti a capire ciò composto dai segni sempre interpretare ti cela: studia,
 Solo allora capirai.
 
 La tensione dello scontro.
+
 La rivalità portata al suo massimo ed intimo grado.
+
 Confronto tra eccellenze.
+
 Nasce miglioramento.
 
 ### Allora capirai che tu sei la tua essenza.
@@ -77,6 +80,6 @@ Quando ciò desiderabile esista.
 
 Scala immaginaria, superficie del primo gradino.
 Ti creo ed aggiungo pioli.
-Livello irraggiungibile!
+Livello irraggiungibile! 
 
 Se almeno tu fossi un alieno non scenderesti fin qui giù in silenzio.

@@ -20,15 +20,16 @@ description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Ormai non c'
 
 Freezer vi offre tre punti di vista dell'evento:
 
-###### 1. La battaglia di Roma per la World Gay Pride quasi vinta? _Marco Menini_
+##### 1. La battaglia di Roma per la World Gay Pride quasi vinta? _Marco Menini_
 
-###### 2. Noi a roma ci siamo andati. _Mimmo_
+##### 2. Noi a roma ci siamo andati. _Mimmo_
 
-###### 3. Messi a nudo, spogli di provocazione, davanti a stato e chiesa. _Chiara Molon_
+##### 3. Messi a nudo, spogli di provocazione, davanti a stato e chiesa. _Chiara Molon_
 
 
 
-#La battaglia di Roma per la World Gay Pride quasi vinta?
+# La battaglia di Roma per la World Gay Pride quasi vinta?
+
 by Marco Menini
 
 
@@ -86,7 +87,8 @@ Contemporaneamente, dopo aver deciso di vietare alle donne la funzione di pastor
 Cosi va il mondo... MM
 
 
-#Noi a roma ci siamo andati.
+# Noi a roma ci siamo andati.
+
 by Mimmo.
 
 Noi a roma ci siamo andati qualche giorno prima, visto che c'è la nostra amica.
@@ -95,7 +97,7 @@ Il gay pride per quanto mi riguarda non è una semplice manifestazione di protes
 
 Il pomeriggio del sabato siamo andati all'appuntamento con tutto il mondo, alla metropolitana piramide, parcheggiato la macchina un po' distanti perché non era possibile avvicinarsi di più c'erano un sacco di poliziotti che avevano bloccato le strade.
 
-beh arriviamo in questa piazza affollatissima, tutte le vie erano piene di gente, gente dappertutto. noi cerchiamo di rintracciare tutti i nostri amici, un'impresa vana.
+Beh arriviamo in questa piazza affollatissima, tutte le vie erano piene di gente, gente dappertutto. noi cerchiamo di rintracciare tutti i nostri amici, un'impresa vana.
 
 Beh e la cosa che mi sta più a cuore dire, si c'era tanta gente, mentre alcune persone hanno lavorato per rendere invisibile questo evento, noi eravamo lì in tanti fisicamente e i nostri corpi esistono e sono nostri, non potranno mai gestirli come vogliono loro.
 
@@ -103,9 +105,9 @@ Intorno grande assembramento di persone e carri, con musica di diversi generi e 
 
 Lo sapete che c'era pure ambra, lo sapete che a me mi ha fatto simpatia e gnokka la ragazza.
 
-c'erano i vippe che ho visto, quel carciofo di sgarbi insieme ai travestiti, giustamente esprimevano un bell'aspetto sociale, il tipico cliente e i tipici prestatori d'opera, ho visto pannelone insieme ad una banda di suonatori che camminava come alla parata del santo patrono.
+C'erano i vippe che ho visto, quel carciofo di sgarbi insieme ai travestiti, giustamente esprimevano un bell'aspetto sociale, il tipico cliente e i tipici prestatori d'opera, ho visto pannelone insieme ad una banda di suonatori che camminava come alla parata del santo patrono.
 
-boh a me quello non mi è simpatico, mi sembra il solito benestante che si occupa dei grandi problemi che sono grandi fino a quando lui decide che sono grandi e... beh però era li.
+Boh a me quello non mi è simpatico, mi sembra il solito benestante che si occupa dei grandi problemi che sono grandi fino a quando lui decide che sono grandi e... beh però era li.
 
 Ho visto uno che ho conosciuto una sera anni fa che ora fa il parlamentare, si chiama niki vendola, me lo ricordo con simpatia, poverino con sto lavoro che si e scelto mi sembrava un po' intristito l'ho visto da lontano ma non mi e venuta voglia di andarlo a salutare.
 
@@ -122,33 +124,34 @@ Lo invidio, aveva una schiena dritta che dovevate vedere, aveva un po' dello sci
 Almeno io so che piace a un sacco di gay, e forse anche a lui sono simpatici. tutti costretti in un percorso scomodo ed ingombro di transenne mal posizionate per fare defluire tutta quella concentrazione...
 
 
-#Messi a nudo, spogli di provocazione, davanti a stato e chiesa.
+# Messi a nudo, spogli di provocazione, davanti a stato e chiesa.
+
 by Chiara Molon.
 
 Sabato 8 luglio 2000, ore 15:00, piazzale ostiense, il primo world gay pride è pronto per partire.
 
-fra le persone sul piazzale si sentono parlare varie lingue, sono arrivati in massa gay e lesbiche dall'america, dall'australia, dalla cina, addirittura qualche arabo (velato ovviamente!) alla testa del corteo un gruppo di 70 motociclisti "machissimi" e un grande arco di palloncini colorati, i colori dell'arcobaleno (rainbow) rappresentanti di gay e lesbiche nel mondo.
+Fra le persone sul piazzale si sentono parlare varie lingue, sono arrivati in massa gay e lesbiche dall'america, dall'australia, dalla cina, addirittura qualche arabo (velato ovviamente!) alla testa del corteo un gruppo di 70 motociclisti "machissimi" e un grande arco di palloncini colorati, i colori dell'arcobaleno (rainbow) rappresentanti di gay e lesbiche nel mondo.
 
 A seguire, dopo le varie polemiche che hanno anticipato la parata, c'è chi alle parole ha fatto seguire la propria presenza, come katia berillo, ministro alla pari opportunità, bertinotti, sgarbi (amato-odiato come sempre, accolto da applausi seguiti subito da fischi di disapprovazione), leo gullotta "scortati" dalla persona che x la sua presenza rischia forse di più, don vitalino della sala, la chiesa èpresente insomma, anche controvoglia, i gay cattolici apprezzano.
 
 Parcheggiati ai lati del piazzale, una decina di carri allegorici aspettano di partire, già si vedono i primi dimenarsi di tette e culi in strass e paillettes, scalpitano il ritmo dell'inno della settimana del gaypride "nessuno mi può giudicare" di caterina caselli. verso le 15:30 finalmente, la partenza.
 
-allo striscione d'apertura segue il carro pieno di schiuma di mucca assassina, sono in due (ragazzi ovviamente) a salire all'inizio, così carini che non so se girarmi a destra o a sinistra, a gettare a chi cammina vicino a loro schiuma su schiuma fra gesti e danze sensualmente provocanti.
+Allo striscione d'apertura segue il carro pieno di schiuma di mucca assassina, sono in due (ragazzi ovviamente) a salire all'inizio, così carini che non so se girarmi a destra o a sinistra, a gettare a chi cammina vicino a loro schiuma su schiuma fra gesti e danze sensualmente provocanti.
 
 Poco dopo salirà anche una ragazza, beh, anche le lesbiche hanno diritto alla controparte! segue a ruota un triclinio e qualche pseudorudere di capitello cui si appoggia ambra (eh, già, nota icona omosessuale) capelloni lunghi fino al fondo schiena neri neri, vestita vero simile morticia adams, forse non ha capito bene dove si trova, a no, si lega poi, la rainbow-bandiera a modi pareo.
 
-e poi ancora il carro dei travestiti e transessuali brasiliani, la macchina mimetica della leather house di roma, e ancora un carro solo casse che inneggia ad una rivoluzione fondamentale della musica (che centra poi?) insomma un pourpourri di vizi e stravizi, gusti e nongusti, fatine, borchie, farfalline e marinaretti, ombrellini multicolore e gadget d'ogni tipo.
+E poi ancora il carro dei travestiti e transessuali brasiliani, la macchina mimetica della leather house di roma, e ancora un carro solo casse che inneggia ad una rivoluzione fondamentale della musica (che centra poi?) insomma un pourpourri di vizi e stravizi, gusti e nongusti, fatine, borchie, farfalline e marinaretti, ombrellini multicolore e gadget d'ogni tipo.
 
-durante il cortesi balla, si canta, ci si dimena, ci si arrampica. la cosa che sorprende e che trovo d'estrema delicatezza, nessuno urla frasi, slogan, insulti, si lascia ai cartelli e ai vari striscioni il compito di denunciare, di chiedere, di contestare.
+Durante il cortesi balla, si canta, ci si dimena, ci si arrampica. la cosa che sorprende e che trovo d'estrema delicatezza, nessuno urla frasi, slogan, insulti, si lascia ai cartelli e ai vari striscioni il compito di denunciare, di chiedere, di contestare.
 
 Sulla via piramide cestia mi rendo conto che assieme a tutti questi ragazzi e ragazze omosessuali ce ne sono tantissimi di "regolari", eterosessuali come me che dovevano assolutamente esserci x manifestare il loro sostegno stavolta, a roma, in quest'anno giubilare specialmente!
 
-prendere parte a questa gran marcia contro la sessuofobia e per i diritti delle minoranze, per il sacrosanto (e lo dico non a caso) diritto alla libertà d'essere quello che si è, il diritto ad esternarlo, a farsi vedere.
+Prendere parte a questa gran marcia contro la sessuofobia e per i diritti delle minoranze, per il sacrosanto (e lo dico non a caso) diritto alla libertà d'essere quello che si è, il diritto ad esternarlo, a farsi vedere.
 
 A potersi unire e a creare famiglie, il diritto all'amore e all'amore libero, il diritto insomma di vivere scegliendo e non solo seguendo! sono facili poi quei paragoni con persone che soffrono di patologie come la pedofilia, la necrofilia.
 
 Lasciamo questi paragoni ad altre persone ignoranti ed altre sedi.
 
-questo primo world gay pride è stato di tutti, di coloro che pur sembrandomi anche un po' ridicoli a manifestare x certe cose nell'anno 2000, hanno avuto, hanno e avranno la voglia di cambiare questa situazione di discriminazione e intolleranza, per se stessi e coloro che verranno dopo.
+Questo primo world gay pride è stato di tutti, di coloro che pur sembrandomi anche un po' ridicoli a manifestare x certe cose nell'anno 2000, hanno avuto, hanno e avranno la voglia di cambiare questa situazione di discriminazione e intolleranza, per se stessi e coloro che verranno dopo.
 
-al circo massimo secondo Titti De Simone eravamo "200 mila, 500 mila, milioni!" non si è capito bene quanti, l'importante è che eravamo lì, messi a nudo, spogli da provocazione davanti a stato e chiesa.
+Al circo massimo secondo Titti De Simone eravamo "200 mila, 500 mila, milioni!" non si è capito bene quanti, l'importante è che eravamo lì, messi a nudo, spogli da provocazione davanti a stato e chiesa.

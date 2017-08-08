@@ -15,9 +15,11 @@
       {% include menu.html %}
 
       <a href="{{ site.baseurl }}/">
+
         <div class="cf">
           {% include icon.html %}
         </div>
+        
       </a>
 
     </header>
@@ -33,9 +35,7 @@
         {% if page.year %}<li><em>Year</em> {{page.year}}</li>{% endif %}
       </ul>
 
-      <div class="text">
-        {{ content }}
-      </div>
+      <div class="text">{{ content }}</div>
 
     </main>
 

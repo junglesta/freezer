@@ -17,7 +17,7 @@ Mica è facile, manca un giorno alla nostra prevista partenza, te lo ricordi Ghi
 
 Mamma mia che sballo! Mi piacciono le onde ma quest’anno ho bisogno di caldo, America, Florida... Miami.
 
-###Dopo una notte infame, sacre sindoni che sudano nel letto... è la tensione della partenza, assonnati, ci buttiamo nel primo aereo per Miami. 25 gradi, umidità 70%, gente di colore, scarpe da tennis, ponti, seni prorompenti, skate... è proprio America! Anzi, siamo proprio a Miami!!
+### Dopo una notte infame, sacre sindoni che sudano nel letto... è la tensione della partenza, assonnati, ci buttiamo nel primo aereo per Miami. 25 gradi, umidità 70%, gente di colore, scarpe da tennis, ponti, seni prorompenti, skate... è proprio America! Anzi, siamo proprio a Miami!!
 
 Ecco la pensioncina giusta in Ocean Drive, sul lungomare più famoso d’America. Donne e macchine da sballo, e quando dico da sballo dico da SBALLO!!
 
@@ -39,7 +39,7 @@ Duck non si fa scalfire minimamente dalla situazione e mi trascina imperterrito 
 
 Spudoratamente Duck, con un americano tutto suo, chiede al bagnino dove sono le ragazze.
 
-Con fare gentile, direi addirittura affettuoso, il bagnino ci spiega che a Miami in questo week-end c’è il famosissimo incontro annuale dei gay della Florida... come inizio non c’è male!
+### Con fare gentile, direi addirittura affettuoso, il bagnino ci spiega che a Miami in questo week-end c’è il famosissimo incontro annuale dei gay della Florida... come inizio non c’è male!
 
 Dopo lo sconforto iniziale ci buttiamo nella folla a scattare le foto ricordo.
 
@@ -51,7 +51,7 @@ Ed ecco Mike regalarci un nuovo tipo di vaselina che, sostiene lui, è ecceziona
 
 Strano, ma allo stesso tempo molto divertente: io e Silvano eravamo perfettamente in simbiosi. Forse per un attimo l’ho anche amato. Scherzi a parte, passiamo oltre.. Ed ecco che dal cappello di Mandrake, la mitica agenda di Duck, esce l’indirizzo del suo carissimo amico Sato. Urca che personaggio!!! Sta Miami per lavoro: modelle, attori e tutto ciò che fa fashion.
 
-###Ci infiliamo in una festa privata sotto suo invito e dopo tre bourbon gingerail riesco a superare l’imbarazzo. Le più belle donne d’America mi girano intorno come se nulla fosse!! Mi sono perso Duck! Aiuto.
+### Ci infiliamo in una festa privata sotto suo invito e dopo tre bourbon gingerail riesco a superare l’imbarazzo. Le più belle donne d’America mi girano intorno come se nulla fosse!! Mi sono perso Duck! Aiuto.
 
 Aveva ragione mio nonno, gli hanno sparato in Australia, impara l’inglese... cazzo!
 
@@ -72,7 +72,7 @@ Come sempre la vacanza vola, ormai siamo agli sgoccioli.
 
 >“hai ragione Duck, infiliamoci dentro questo shop, guarda quanto è grande”.
 
-###Il taxista sogghigna, locale per soli adulti aperto 24 ore su 24: Florida, il più grande sex-shop di Miami! Le risate... fra lingue di gomma, Babbi Natale che si masturbano, uccelli in lattice grandi quanto una proboscide di elefante, fighette a carica alte due dita che saltellano sul bancone, saponette falliche, intrugli afrodisiaci, bambole gonfiabili tanto gonfie da doverci mettere i pesi da sub.
+### Il taxista sogghigna, locale per soli adulti aperto 24 ore su 24: Florida, il più grande sex-shop di Miami! Le risate... fra lingue di gomma, Babbi Natale che si masturbano, uccelli in lattice grandi quanto una proboscide di elefante, fighette a carica alte due dita che saltellano sul bancone, saponette falliche, intrugli afrodisiaci, bambole gonfiabili tanto gonfie da doverci mettere i pesi da sub.
 
 210 dollari di regali dentro i sacchetti, l’occhio attento del commesso disponibilissimo a consigliarci questo e quest’altro accessorio, atto a migliorare la nostra vita sessuale o facilitare i nostri gran segoni. Anche stavolta sembriamo una coppia felice.
 

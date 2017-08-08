@@ -21,14 +21,20 @@ Con una media di 3,5 bambini per famiglia, si ha un totale di 98,1 milioni di lo
 Babbo Natale ha 31 ore lavorative, grazie ai fusi orari e alla rotazione della terra, assumendo che viaggi da Est verso Ovest. Questo porta ad un calcolo di 822,6 visite per secondo.
 
 Questo significa che, per ogni famiglia Cristiana con almeno un bambino buono, Babbo Natale ha circa un millesimo di secondo per:
+
 - o trovare parcheggio ( cosa questa semplice, dato che può parcheggiare sul tetto e non ha problemi di divieti di sosta );
+
 - o saltare giù dalla slitta;o scendere dal camino;o riempire le calze;
+
 - o distribuire il resto dei doni sotto l'albero di Natale;
+
 - o mangiare ciò che i bambini mettono a sua disposizione;
+
 - o risalire dal camino;o saltare sulla slitta;
+
 - o decollare per la successiva destinazione.
 
-Assumendo che le abitazioni siano distribuite uniformemente (che sappiamo essere falso, ma accettiamo per semplicità di calcolo), stiamo parlando di 1.248 Km per ogni fermata, per un viaggio totale di 120 milioni di Km.
+#### Assumendo che le abitazioni siano distribuite uniformemente (che sappiamo essere falso, ma accettiamo per semplicità di calcolo), stiamo parlando di 1.248 Km per ogni fermata, per un viaggio totale di 120 milioni di Km.
 
 Questo implica che la slitta di Babbo Natale viaggia a circa 1040 Km/sec, a 3000 volte la velocità del suono.
 

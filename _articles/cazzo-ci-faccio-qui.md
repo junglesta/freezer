@@ -17,6 +17,7 @@ Vi è mai capitato, durante un viaggio, di trovarvi in situazioni da voi provoca
 A me capita regolarmente, non so per quale motivo, probabilmente la mia ingenuità o coglionaggine, chiamatela come volete, fatto sta che nel mio ultimo surf & knowledge trip mi sono capitate cose stranissime.
 
 ###### Situazione 1
+
 ### Sri Lanka
 
 
@@ -45,6 +46,7 @@ Incredulo chiedo uno specchio, notando l'esistenza di un bellissimo dente perfet
 Attualmente il dente, pagato 2000 Rs(50.000£), continua ad essere perfetto ed io amo pensare che le condizioni igieniche fossero quelle dovute!
 
 ###### Situazione 2
+
 ### Sri Lanka
 
 Una mattina mi sveglio per andare a surfare, guardo fuori dalla finestra notando che le onde spaccano.
@@ -154,6 +156,7 @@ gli rispondo
 I must go somewhere else!
 
 ###### Situazione 4
+
 ### Andamans Islands
 
 Sono a Port Blair, capitale, circondato da mangrovie, eucaliptus e fiori di ibiscus, + che in India mi sembra di essere a Sumatra.

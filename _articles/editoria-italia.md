@@ -26,7 +26,9 @@ Ma il problema non è solo su questi punti. Quale Target?
 A chi parlano queste varie testate, e di cosa parlano? Agli sciatori che se le trovano allegate?
 
 In che modo proporsi alla gente nuova perché é questo che a tutti interessa, vero!?
+
 Istruendo chi studia per sfoggiare conoscenze tecniche alla domenica sulle piste?
+
 Riempiendo i neofiti di improbabili Slang e istruzioni per l’uso? ma per favore..
 
 O forse il problema e che chi non fa, scrive, o chi non sa fare insegna!
@@ -48,11 +50,14 @@ Non si accorgono i vostri sponsor quanti nuovi potenziali utenti una rivista pi�
 Freezer non ti pacca, garantito che spacca!
 
 
-#Wasting Time (BOARDING TIME)
+# Wasting Time (BOARDING TIME)
+
 dall’editoriale del #3:
+
 >“mai come quest’anno il comportamento dei nostri governanti sarà importante per garantire finalmente la definitiva consacrazione dello snowboard in Italia”
 
 dal #1:
+
 >"prima di comprare una tavola trovate i soldi."
 
 &nbsp;
@@ -64,11 +69,14 @@ Chi lo legge? I figli degli sciatori.
 I fondini sono mitici...
 
 
-#Snowboring (SNOWBOARD)
+# Snowboring (SNOWBOARD)
+
 dal #26:
+
 >“afferriamo la tavola come se volessimo stringere la parte di noi di cui abbiamo più paura in preda ad un mistico esorcismo”
 
 dal #29:
+
 >”surfare diventa una via laica e blasfema alla meditazione”
 
 Mettere su i belloni tipo Peter Bauli e Romano Reisino non rende.
@@ -77,23 +85,30 @@ Si dice che per fare le foto saltano sul tappeto elastico e poi attaccano le fot
 I risultati delle diete? Due amiche anoressiche, e varie menomazioni.
 Perchè così tanti redazionali?
 
-#Boh Side (B-SIDE )
+# Boh Side (B-SIDE )
+
 dal preview:
+
 >“b-side é tutto ciò che fa trend sul pianeta snowboard”
 
 Il grande fratello che selezionerà e tradurrà... le riviste degli altri. Orwell docet!
 
-#Schneetischlerei (SNOWBOARDER )
+# Schneetischlerei (SNOWBOARDER )
+
 Comprerà articoli da SNOWBOARDER tedesco in a full Angelo Berto style. Ma noi viviamo qui e non in Germania... per fortuna! (pizza uber alles).
 
-#Al Bar (ON BOARD)
+# Al Bar (ON BOARD)
+
 dall’editoriale del #1:
+
 >”primo round vittoria ai punti, il K.O. definitivo arriverà presto”
 
 dall’editoriale del #2:
+
 >”dai tweeter della moda escono invece le regole per sentirsi IN in disco, nei locali surf e in pista. L’heavy metal e l’hardcore sono indispensabili per surfare in allegria”
 
 dal #1:
+
 >”mi sento un po’ picchiatello, sono freestyler?”
 
 Avrebbero le possibilità economiche per fare grandi cose.
@@ -102,13 +117,18 @@ Grunge il layout rustico.
 Chissà se per il 96 comprano un paio di forbici nuove.
 La sorpresa primaverile é che era allegato a Sciare solo su una parte del territorio.
 
-#Frosties (FREEZER)
+# Frosties (FREEZER)
+
 dall’editoriale del #2:
+
 >”ma da dove arriva lo spermatozoo? la mia amica Susi dice che lo fanno le ostriche”
 
 Troppo poche donne.
+
 Troppe parolacce.
+
 Dove sono i carvers?
+
 >“le foto sono sfuocate”.
 
 Quando è che mettono una lente di ingrandimento allegata?

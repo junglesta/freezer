@@ -12,7 +12,7 @@ description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Ciao Lo scor
 
 *Lo scorso numero abbiamo parlato della seduzione femminile vista da un uomo, in questa parleremo dell'arte dello scarico: ovvero come liberarsi dall’inimico oppressor che dopo un periodo di amor vi sta levando il sangue goccia a goccia.*
 
-Dopo un primo periodo di occhiate d'intesa, giornate passate a fornicare, e grandi progetti per il futuro, viene il pericolosissimo periodo della noia...
+#### Dopo un primo periodo di occhiate d'intesa, giornate passate a fornicare, e grandi progetti per il futuro, viene il pericolosissimo periodo della noia...
 
 Voi vorreste snowboardare ma lei no, e vi obbliga a serate pseudoculturali, film pallosissimi, ritrovi con amici (suoi) dei quali ve ne frega meno di un cazzo, domeniche pomeriggio passate a guardare la TV... e ci sono due metri di powder e il sole.
 
@@ -28,7 +28,7 @@ Per servitù, poi, vi sentite anche obbligati a non mollarla di brutto (si sa: �
 
 La vostra ex-amata, che ora è diventata peggio del conte Vlad Das Vampiren, vi sta levando il sangue goccia a goccia.
 
-### Le soluzioni che vi si prospettano sono molteplici: sviluppare l'arte della menzogna, fare buon viso a cattivo gioco (“egli tiene sei facce come il dado”) oppure, ancora, soluzione drammatica: il famigerato “scusa, dobbiamo parlare...”, che lascia intendere che:
+#### Le soluzioni che vi si prospettano sono molteplici: sviluppare l'arte della menzogna, fare buon viso a cattivo gioco (“egli tiene sei facce come il dado”) oppure, ancora, soluzione drammatica: il famigerato “scusa, dobbiamo parlare...”, che lascia intendere che:
 
 A) Siete incinto
 
