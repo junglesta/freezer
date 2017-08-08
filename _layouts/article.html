@@ -2,7 +2,7 @@
 
 ---
 <!DOCTYPE html>
-<html lang="{{page.language}}">
+<html lang="{{page.language}}"  itemscope itemtype="http://schema.org/Article" >
 
 {% include head.html %}
 
@@ -19,7 +19,7 @@
         <div class="cf">
           {% include icon.html %}
         </div>
-        
+
       </a>
 
     </header>
@@ -28,18 +28,29 @@
 
       <h1 itemprop="headline">{{page.title}}</h1>
 
-      <ul class="meta cf">
-        {% if page.author %}<li><em>Author</em> {{page.author}}</li>{% endif %}
-        {% if page.tags %}<li><em>Tags</em> {{page.tags}}</li>{% endif %}
-        {% if page.issue %}<li><em>Freezer Magazine</em> {{page.issue}}</li>{% endif %}
-        {% if page.year %}<li><em>Year</em> {{page.year}}</li>{% endif %}
-      </ul>
+      <div class="headbeard">
+
+        <ul class="meta cf">
+          {% if page.author %}<li><em>Author</em> {{page.author}}</li>{% endif %}
+          {% if page.tags %}<li><em>Tags</em> {{page.tags}}</li>{% endif %}
+          {% if page.issue %}<li><em>Freezer Magazine</em> {{page.issue}}</li>{% endif %}
+          {% if page.year %}<li><em>Year</em> {{page.year}}</li>{% endif %}
+        </ul>
+
+
+        <div class="kudoswrap">
+          <div class="kudos" data-amount="0" data-url="{{ site.url }}/{{ page.url }}"></div>
+        </div>
+
+      </div>
 
       <div class="text">{{ content }}</div>
 
     </main>
 
     {% include footer.html %}
+
+    {% include script_kudos.html %}
 
     {% include script_append_to_copy_action.html %}
 
