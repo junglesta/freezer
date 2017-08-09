@@ -4,7 +4,7 @@ sitemap: false
 /*
 Freezer on Kirbies
 Author:; rokma
-version: 0.10.1
+version: 0.10.2
 
 
 /* Reset
@@ -110,6 +110,10 @@ body {
   line-height: 1.25;
   background: #ddd;
   color: #222;
+}
+
+strong {
+  font-weight: 500;
 }
 
 li em {
@@ -534,7 +538,7 @@ h1 a, h2 a, h3 a, h4 a {
 .sponsor,
 .powered,
 .copyright,
-.qr_block, 
+.qr_block,
 .share {
   border-bottom: 2px solid black;
 }
