@@ -7,10 +7,9 @@ description: "1995>2000. 5 years. 27 free issues. Freezer magazine came as a str
 ---
 
 
-## 27
+##### 1995>2000. 27 free issues.
 
-| no. | year  | season            | shout               |
-| :-- | :---- | :---------------- | -------------------:|
+| no. | year | season | shout |
 | 01 | 1994 | dicembre | Freezer numero zero |
 | 02 | 1995 | dicembre | Freezer magazine |
 | 03 | 1995 | dicembre | Biomag |
