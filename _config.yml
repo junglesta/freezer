@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
 keywords: fun, info, free-press, italian, surfing, skateboarding, snowboarding, rokma
 
 baseurl: ""
-url: "http://freezer.junglestar.org"
+url: "https://freezer.junglestar.org"
 
 github_username:  toybreaker
 twitter_creator: rokmatwit
