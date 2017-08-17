@@ -8,7 +8,7 @@ Thanks, the [Junglestar](http://junglestar.org) team.
 
 
 #  Freezer Magazine
-[This is an online version of the printed Freezer magazine.](http://freezer.junglestar.org)
+[This is an online version of the printed Freezer magazine.](https://freezer.junglestar.org)
 
 Freezer Magazine was a board-sports-centered free-press distributed by mail ["printed matter"](https://en.wikipedia.org/wiki/Printed_matter) in Italy and Italian speaking Switzerland.
 The Freezer Magazine project had some impact on the Italian scene some time ago.
@@ -21,15 +21,25 @@ The Freezer Magazine project had some impact on the Italian scene some time ago.
 ### current website features:
 
 - user-friendly typography
+
 - mobile first responsive design
+
 - text based archive
+
 - no photos on small screens
+
 - ©rokma photos on big screens only
+
 - open source site code on github
+
 - svg logos
+
+- ssl/https thanks to Netlify
 
 ### 2DOs:
 
 - print css
-- fix kudos (mysteriously not working)
+
 - reading time
+
+- fix kudos (mysteriously not working)

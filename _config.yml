@@ -14,11 +14,12 @@ google:
 
 # Build settings
 markdown: kramdown
-gems:
- - jekyll-mentions
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
  - jekyll-redirect-from
  - jekyll-sitemap
- - jekyll-feed
+ - html-proofer
 exclude:
   - Gemfile
   - Gemfile.lock
