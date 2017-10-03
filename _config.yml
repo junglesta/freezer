@@ -21,7 +21,6 @@ plugins:
  - jekyll-sitemap
  - html-proofer
 exclude:
-  - Gemfile
   - Gemfile.lock
 permalink: pretty
 
