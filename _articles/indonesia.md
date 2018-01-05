@@ -8,6 +8,7 @@ year: 1999
 issue: 21
 tags: Italiano
 description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Potrebbe anche chiamarsi - Indonesia aditainculo - ma per non essere scurrili è meglio così.  "
+image: /assets/photos/15.jpg
 ---
 
 Potrebbe anche chiamarsi - Indonesia aditainculo - ma per non essere scurrili è meglio così.

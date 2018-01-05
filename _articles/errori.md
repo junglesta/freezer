@@ -8,6 +8,7 @@ year: 1996
 issue: 9
 tags: Guide, Italiano
 description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Errori da evitare e consigli utili per quando vi dovete rivestire in fretta perche’ i genitori di lei sono tornati a casa prima del previsto dopo che avevano detto che sarebbero rimasti fuori tutta la sera e questo proprio mentre stavate stantuffando allegramente e anzi avevate quasi raggiunto insieme che non succede quasi mai il punto di non ritorno"
+image: /assets/photos/25.jpg
 ---
 
 *Sopratitolo:*

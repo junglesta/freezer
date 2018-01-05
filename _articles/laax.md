@@ -8,6 +8,7 @@ year: 1999
 issue: 21
 tags: Italiano
 description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Miao freezer sono Rita, ho avuto qualche problema nel mandarti qualcosa di scritto dal BoarderX perché non riuscivo a trovare un PC! - L'opzione piccione viaggiatore è stata scartata perché qui a Laax, con la scusa che hanno il tifo, li abbattono! "
+image: /assets/photos/25.jpg
 ---
 
 ### Miao freezer sono Rita, ho avuto qualche problema nel mandarti qualcosa di scritto dal BoarderX perché non riuscivo a trovare un PC! - L'opzione piccione viaggiatore è stata scartata perché qui a Laax, con la scusa che hanno il tifo, li abbattono! -

@@ -8,6 +8,7 @@ year: 1999
 issue: 20
 tags: English, Italiano
 description: "1995>2000. 5 years. 27 free issues. Freezer magazine. A brand new contemporary game where you can drive the latest WarJet™ in the all the SlaveNations®. Have fun jetting over snow resorts and under the CableCar®. You get extra point for every GreenPeace boat sinked, for any civilian killed."
+image: /assets/photos/30.jpg
 ---
 
 

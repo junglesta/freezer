@@ -9,6 +9,7 @@ issue: 23
 tags: Italiano
 description: "1995>2000. 5 years. 27 free issues. Freezer magazine.
 11 ragioni per cui una birra è meglio di una donna. 1. La birra non è gelosa quando ti fai un'altra birra. 2. Puoi condividere una birra con gli amici. 3. Puoi farti una birra in pubblico senza problemi."
+image: /assets/photos/08.jpg
 ---
 
 ###### Ouarzazat (door of the desert) to Merzouga, Morocco.

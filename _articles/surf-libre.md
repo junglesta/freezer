@@ -8,6 +8,7 @@ year: 2000
 issue: 24
 tags: English
 description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Anyway, load the car and hit the road to Varazze where we pick up our fifth passenger Gianluca. He had to laugh when we pulled up in the carpark. successfully fit everything into the car and continue the long drive to Hossegor."
+image: /assets/photos/16.jpg
 ---
 
 Never Ending Global Tour, the Freezer Crossing.

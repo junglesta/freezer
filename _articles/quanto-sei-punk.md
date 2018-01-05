@@ -8,6 +8,7 @@ year: 1997
 issue: 12
 tags: Test, Italiano
 description: "1995>2000. 5 years. 27 free issues. Freezer magazine. In vista di un vostro futuro inserimento nel mondo dell’alternativo, Freezer vi mette alla prova proponendovi un semplice questionario dove potrete verificare quanto siete punk e se siete pronti per uscire allo scoperto: "
+image: /assets/photos/25.jpg
 ---
 
 ### In vista di un vostro futuro inserimento nel mondo dell’alternativo, Freezer vi mette alla prova proponendovi un semplice questionario dove potrete verificare quanto siete punk e se siete pronti per uscire allo scoperto:

@@ -9,6 +9,7 @@ issue: 14
 tags: Italiano
 description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Lo sapevate che l’uomo è l’animale con il cazzo più grande in proporzione al resto del corpo? E sapete il perché?
 Perché le femmine di noi uomini sono le uniche ad avere l’orgasmo!"
+image: /assets/photos/27.jpg
 ---
 
 ### Piccolo manuale di etologia

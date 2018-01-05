@@ -8,6 +8,7 @@ year: 1998
 issue: 20
 tags: English
 description: "1995>2000. 5 years. 27 free issues. Freezer magazine. In Finlandia é andata + o - così: decido di andare un po’ perché sono un inviato speciale di fine millennio, un po’ per vedere una mia vecchia amica ma soprattutto per quel sano istinto che spinge ogni giorno numeroso individui a soffiarsi il naso e a mettersi in moto, a partire."
+image: /assets/photos/01.jpg
 ---
 
 In Finlandia é andata + o - così: decido di andare un po’ perché sono un inviato speciale di fine millennio, un po’ per vedere una mia vecchia amica ma soprattutto per quel sano istinto che spinge ogni giorno numeroso individui a soffiarsi il naso e a mettersi in moto, a partire.

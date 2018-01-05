@@ -8,6 +8,7 @@ year: 2000
 issue: 24
 tags: Italiano
 description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Rispolverando il bambino che é in me e riciclandomi un po' come artista-installatore sono entrato in una tabaccheria e..."
+image: /assets/photos/08.jpg
 ---
 
 

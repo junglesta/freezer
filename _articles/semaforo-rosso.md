@@ -8,6 +8,7 @@ year: 1999
 issue: 20
 tags: Italiano
 description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Venerdi sera, esco con Emy, una delle ragazze + stupende del mondo. Andiamo all'inaugurazione del nuovo locale che hanno aperto a Sanpe con la mia Panda verde-pisello. "
+image: /assets/photos/25.jpg
 ---
 
 

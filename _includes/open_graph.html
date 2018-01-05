@@ -55,12 +55,12 @@
 	<meta property="og:image" content="{{ site.url }}/assets/p/{{ page.preview_image }}">
 	{% else %}
 		{% if page.layout == 'housing' %}
-		<meta property="og:image" content="{{ site.url }}/assets/p/housings/{{page.photos_dir}}/01.jpg">
+		<meta property="og:image" content="{{ site.url }}/assets/photos/housings/{{page.photos_dir}}/01.jpg">
 		{% else %}
 			{% if page.layout == 'port' %}
-			<meta property="og:image" content="{{ site.url }}/assets/p/accessories/ports/{{page.name}}/01.jpg">
+			<meta property="og:image" content="{{ site.url }}/assets/photos/accessories/ports/{{page.name}}/01.jpg">
 			{% else %}
-			<meta property="og:image" content="{{ site.url }}/assets/p/{{ site.preview_image }}">
+			<meta property="og:image" content="{{ site.url }}/assets/photos/{{ site.preview_image }}">
 			{% endif %}
 		{% endif %}
 	{% endif %}

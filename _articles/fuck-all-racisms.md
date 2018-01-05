@@ -8,6 +8,7 @@ year: 1997
 issue: 15
 tags: Italiano
 description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Se pensate che scriveremo il solito articolo di tre coglioni che se ne vanno in giro per il mondo a surfare secret spot, senza nessuno in acqua, con onde della madonna, e con nessuno che ti rompe i coglioni, avete sbagliato bazza."
+image: /assets/photos/25.jpg
 ---
 
 ### Se pensate che scriveremo il solito articolo di tre coglioni che se ne vanno in giro per il mondo a surfare secret spot, senza nessuno in acqua, con onde della madonna, e con nessuno che ti rompe i coglioni, avete sbagliato bazza.

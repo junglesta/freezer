@@ -8,6 +8,7 @@ year: 1997
 issue: 14
 tags: Guide, Italiano
 description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Ecco qui un bel rifornito glossarietto dei termini tecnici dello snowboard dedicato a chi si è avvicinato da poco a questo magnifico gioco e vuole saperne di più"
+image: /assets/photos/25.jpg
 ---
 
 ### Ecco qui un bel rifornito glossarietto dei termini tecnici dello snowboard dedicato a chi si è avvicinato da poco a questo magnifico gioco e vuole saperne di più.

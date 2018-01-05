@@ -8,6 +8,7 @@ year: 2000
 issue: 26
 tags: English
 description: "1995>2000. 5 years. 27 free issues. Freezer magazine. One of God's main jobs is making people. He makes them to replace the ones that die, so there will be enough people to take care of things on earth. He doesn't make grown-ups, just babies."
+image: /assets/photos/30.jpg
 ---
 
 Bright young lad, an 8 year old boy, Danny Dutton of Chula Vista, CA, wrote this for his third grade homework assignment. The assignment was to explain God. Wonder if any of us could do as well?

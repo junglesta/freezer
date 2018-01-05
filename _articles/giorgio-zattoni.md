@@ -8,6 +8,7 @@ year: 1997
 issue: 14
 tags: Italiano
 description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Ormai non c'è più dubbio. la World Gay Pride si è tenuta a Roma dal 1 al l 9 luglio. Ne dispiaccia al Vaticano, che da mesi, lottava per opporsi in pieno Giubileo. Battaglia lontana del esser finita. Dopo l'ostilità della Santa Sede... "
+image: /assets/photos/29.jpg
 ---
 
 #### Quando abbiamo chiamato Giorgio per intervistarlo era probabilmente una giornata di caldo sole invernale.

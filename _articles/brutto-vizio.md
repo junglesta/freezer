@@ -8,6 +8,7 @@ year: 1999
 issue: 19
 tags: Italiano
 description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Di solito si inizia da giovanissimi, per scherzo, perché lo fanno gli amici più grandi, per sentirsi parte del gruppo..."
+image: /assets/photos/25.jpg
 ---
 
 ### E' un brutto vizio e ho deciso di smettere.

@@ -8,6 +8,7 @@ year: 2000
 issue: 24
 tags: Italiano
 description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Ma tu guarda... a pensare che volevo scoparmi la tua amica..."
+image: /assets/photos/08.jpg
 ---
 
 ### Aquatica, sulla scosta dalmata tra Zadar e Sibenik, nel bosco vicino ai campeggi, Hrvatska 1999

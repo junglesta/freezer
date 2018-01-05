@@ -8,6 +8,7 @@ year: 1997
 issue: 15
 tags: Italiano
 description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Mi piacciono le scimmie. Il negozio di animali all’angolo le vendeva per 100lire al pezzo. Strano prezzo, normalmente sono un paio di milioni. Ho deciso di fare il figo. Ne ho comprate 200. "
+image: /assets/photos/25.jpg
 ---
 
 Mi piacciono le scimmie.

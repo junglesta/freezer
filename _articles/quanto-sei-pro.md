@@ -9,6 +9,7 @@ issue: 14
 tags: Test, Italiano
 description: "1995>2000. 5 years. 27 free issues. Freezer magazine.
 Cruising around in Puerto Rico, the jewel of the Caribbean, one of the best places in the world for surfing. Often nothing less than Hawaii but for sure less crowded... "
+image: /assets/photos/25.jpg
 ---
 
 ### In questo periodo buio il professionismo sta ritornando ad essere lo status symbol del momento.. Hei, tu.. ragazzo sbarazzino con la tavola tuttamatta, si, proprio tu, sei pronto per assurgere al gotha dei veri prauss?

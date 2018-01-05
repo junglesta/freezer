@@ -4,6 +4,7 @@ title: Freezer Issues
 icon: camera
 language: en
 description: "1995>2000. 5 years. 27 free issues. Freezer magazine came as a striking lightning over a stagnant industry. It created its own distribution. | Freezer was really a lab designed to foster improvisation and to break schemes. At Freezer we enjoyed to push limits."
+image: /assets/photos/25.jpg
 ---
 
 

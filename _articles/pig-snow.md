@@ -9,6 +9,7 @@ issue: 22
 tags: English
 description: "1995>2000. 5 years. 27 free issues. Freezer magazine.
 Pigs rule the world. Pigs dive into the dirt they come from, turn around and squeak in it. Spraying mucus all over those people who are careless enough to come too close."
+image: /assets/photos/01.jpg
 ---
 
 *Sto giro partiamo con una storia scritta da un locals sulla grande nevicata in Austria del 99. Quando vai in Austria è un po’ difficile che ti raccontino in italiano, ben che ti vada c’è l’inglese. Come qui. Se lo sai poco esercitati qui, se non lo sai ancora... Torna a scuola!*

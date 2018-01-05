@@ -9,6 +9,7 @@ issue: 7
 tags: English, Italiano
 description: "1995>2000. 5 years. 27 free issues. Freezer magazine.
 Stop the nonsense, cut the bullshit, just ‘cos he rides a freestyle board doesn’t mean he’s cool. Tell me who’s cooler, a freestyler with an attitude problem or a carver having lots of fun..."
+image: /assets/photos/30.jpg
 ---
 
 ### Italiano

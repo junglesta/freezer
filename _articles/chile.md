@@ -8,6 +8,7 @@ year: 1998
 issue: 19
 tags: Snowboarding, Italiano
 description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Ciao Freezer! ¿Come stai? Ti ricordi che mi avevi chiesto com’è il Chile, come sono e come “raidano” i riders chileni e la stessa cosa a proposito dei gringos che vengono qui a trovare la neve più leggera del mondo."
+image: /assets/photos/01.jpg
 ---
 
 

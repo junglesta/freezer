@@ -8,6 +8,7 @@ year: 1998
 issue: 17
 tags: Italiano
 description: "1995>2000. 5 years. 27 free issues. Freezer magazine. A Sri Lanka non c’è la malaria! Ho la febbre alta che da picchi di 42°C scende a 34-33°C e poi sale ancora..."
+image: /assets/photos/25.jpg
 ---
 
 A Sri Lanka non c’è la malaria! Ho la febbre alta che da picchi di 42°C scende a 34-33°C e poi sale ancora.

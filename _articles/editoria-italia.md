@@ -8,6 +8,7 @@ year: 1996
 issue: 3
 tags: Vissuto, Italiano
 description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Nel giro di due anni l’editoria snowboard è passata da una situazione di monopolio senza scelta né competizione ad avere per il prossimo anno sei pubblicazioni in italiano."
+image: /assets/photos/01.jpg
 ---
 
 Nel giro di due anni l’editoria snowboard è passata da una situazione di monopolio senza scelta né competizione ad avere per il prossimo anno sei pubblicazioni in italiano.

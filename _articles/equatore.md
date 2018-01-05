@@ -8,6 +8,7 @@ year: 2000
 issue: 24
 tags: Vissuto, Italiano
 description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Nel giro di due anni l’editoria snowboard è passata da una situazione di monopolio senza scelta né competizione ad avere per il prossimo anno sei pubblicazioni in italiano."
+image: /assets/photos/15.jpg
 ---
 
 Ma è vero che l'acqua del cesso esce al contrario dall'altra parte dell'equatore? Siamo andati in Ecuador per verificare.

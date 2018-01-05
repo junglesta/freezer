@@ -5,6 +5,7 @@ icon: classic
 language: it
 tags: Italiano
 description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Ma voi vi fidate di una cosa che perde sangue 5 giorni al mese e non muore mai? "
+image: /assets/photos/25.jpg
 ---
 
 >"Ma voi vi fidate di una cosa che perde sangue 5 giorni al mese e non muore mai?"

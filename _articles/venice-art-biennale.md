@@ -8,6 +8,7 @@ year: 1997
 issue: 15
 tags: Italiano, English
 description: "1995>2000. 5 years. 27 free issues. Freezer magazine. The Unbearable Whiteness Of Being. Are we still so romantic to believe that this excursion is about Art? Yes, we are, and we ought to be disappointed. All that water, though murky, glistens around us."
+image: /assets/photos/25.jpg
 ---
 
 ### _English_

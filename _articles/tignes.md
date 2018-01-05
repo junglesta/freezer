@@ -8,6 +8,7 @@ year: 2000
 issue: 26
 tags: Italiano
 description: "1995>2000. 5 years. 27 free issues. Freezer magazine. NEXT!... NEXT!... NEXT!... Siete pronti a sopportare tanti bei simpaticoni che alzano la manina per fare poi salti da mission impossible 3?"
+image: /assets/photos/01.jpg
 ---
 
 ### NEXT!... NEXT!... NEXT!... Siete pronti a sopportare tanti bei simpaticoni che alzano la manina per fare poi salti da mission impossible 3?

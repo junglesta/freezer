@@ -1,7 +1,7 @@
 ---
 layout: page
 description: "This was Freezer magazine. A free-press project that had some impact on the italian scene some time ago. | Ecco il meglio di una rivista andata. Per nutrire quella voglia nostalgica di celebrare il passato, che stupisce il mondo."
-preview_image: photos/27.jpg
+image: /assets/photos/27.jpg
 ---
 # Freezer Magazine
 

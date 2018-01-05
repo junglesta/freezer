@@ -8,6 +8,7 @@ year: 1999
 issue: 20
 tags: Italiano
 description: "1995>2000. 5 years. 27 free issues. Freezer magazine. A Beirut c'é aria di rinascita. Riaprono le boutique, grandi hotel, le discoteche. Gli uomini d'affari si dicono convinti che torneranno i tempi della Svizzera del Medioriente. La città è un cantiere."
+image: /assets/photos/25.jpg
 ---
 
 # Road book.

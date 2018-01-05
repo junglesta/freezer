@@ -8,6 +8,7 @@ year: 1996
 issue: 3
 tags: Guide, Italiano
 description: "1995>2000. 5 years. 27 free issues. Freezer magazine. La redazione di Freezer sensibile alle difficoltà linguistiche che i giovani snowboarders italiani incontrano viaggiando, introduce questa: Piccola guida per essere benvenuti in Sud Tirolo"
+image: /assets/photos/25.jpg
 ---
 
 *La redazione di Freezer sensibile alle difficoltà linguistiche che i giovani snowboarders italiani incontrano viaggiando, introduce questa:*

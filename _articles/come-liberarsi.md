@@ -8,6 +8,7 @@ year: 1997
 issue: 13
 tags: Guide, Italiano
 description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Ciao Lo scorso numero abbiamo parlato della seduzione femminile vista da un uomo, in questa parleremo dell'arte dello scarico: ovvero come liberarsi dall’inimico oppressor che dopo un periodo di amor vi sta levando il sangue goccia a goccia."
+image: /assets/photos/24.jpg
 ---
 
 *Lo scorso numero abbiamo parlato della seduzione femminile vista da un uomo, in questa parleremo dell'arte dello scarico: ovvero come liberarsi dall’inimico oppressor che dopo un periodo di amor vi sta levando il sangue goccia a goccia.*

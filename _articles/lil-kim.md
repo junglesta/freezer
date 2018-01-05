@@ -8,6 +8,7 @@ year: 1997
 issue: 14
 tags: Italiano
 description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Sono stato fortunato a incontrare Lil Kim sull’aereo da N.Y. ad Amsterdam."
+image: /assets/photos/25.jpg
 ---
 
 Sono stato fortunato a incontrare Lil Kim sull’aereo da N.Y. ad Amsterdam.

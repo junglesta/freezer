@@ -8,6 +8,7 @@ year: 1998
 issue: 18
 tags: Italiano
 description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Sono stato fortunato a incontrare Lil Kim sull’aereo da N.Y. ad Amsterdam."
+image: /assets/photos/25.jpg
 ---
 
 ## Los Anna (a summer trip on the swiss riviera.)

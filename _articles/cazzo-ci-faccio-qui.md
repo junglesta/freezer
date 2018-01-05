@@ -8,6 +8,7 @@ year: 1999
 issue: 21
 tags: Surf, Asia, Italiano
 description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Vi è mai capitato, durante un viaggio, di trovarvi in situazioni da voi provocate e dire: ma che cazzo sto facendo qua? A me capita regolarmente..."
+image: /assets/photos/08.jpg
 ---
 
 Vi è mai capitato, durante un viaggio, di trovarvi in situazioni da voi provocate e dire:

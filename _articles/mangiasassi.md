@@ -8,6 +8,7 @@ year: 1996
 issue: 9
 tags: Italiano
 description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Questo mese Freezer regala ai suoi affezionati lettori una nuova rubrica: 'Arricchiamo il nostro ristretto vocabolario'. - alla pag. 1046 del vostro vocabolario 'Il Trovatelli 1996', tra il sinonimo mangiasapone e mangiasego va inserito il termine mangiasassi..."
+image: /assets/photos/25.jpg
 
 ---
 

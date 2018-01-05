@@ -9,6 +9,7 @@ issue: 15
 tags: Guide, Italiano
 description: "1995>2000. 5 years. 27 free issues. Freezer magazine.
 CAZZO... ho perso le chiavi della macchina, e ho lasciato le chiavi di riserva nel portafoglio... che è in macchina.. non ci posso credere!"
+image: /assets/photos/30.jpg
 ---
 
 ### "CAZZO... ho perso le chiavi della macchina, e ho lasciato le chiavi di riserva nel portafoglio... che è in macchina.. non ci posso credere!"

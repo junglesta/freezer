@@ -8,6 +8,7 @@ year: 1999
 issue: 20
 tags: English
 description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Vanessa ha accettato di uscire con me, finalmente.  Sono settimane che le sto dietro, e si era sempre rifiutata.. ogni tanto prendevamo un caffè insieme, un paio di volte sono andato a trovarla, ma non c'è mai stato un vero e proprio appuntamento. Non come quello di stasera."
+image: /assets/photos/25.jpg
 ---
 
 ### Vanessa ha accettato di uscire con me, finalmente.  Sono settimane che le sto dietro, e si era sempre rifiutata.. ogni tanto prendevamo un caffè insieme, un paio di volte sono andato a trovarla, ma non c'è mai stato un vero e proprio appuntamento.

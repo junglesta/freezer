@@ -8,7 +8,8 @@ year: 1997
 issue: 14
 tags: Italiano
 description: "1995>2000. 5 years. 27 free issues. Freezer magazine.
-L’orgasmo femminile è un argomento sopravvalutato dagli uomini, quindi cari maschietti, vorrei, con questa mia, aiutarvi a togliervi alcune paralizzanti paure e tante infondate paranoie riguardo all'orgasmo femminile."
+E' così vicina che ci puoi andare quando vuoi, io infatti c'ero già stata almeno 4 volte: in gita, in vacanza, per Natale e in Inter-rail. Era quindi l'unico posto dove non volevo andare, poi per uno strano caso ci ho passato 6 mesi... Quando ci vivi é proprio un'altra storia."
+image: /assets/photos/02.jpg
 ---
 
 E' così vicina che ci puoi andare quando vuoi, io infatti c'ero già stata almeno 4 volte: in gita, in vacanza, per Natale e in Inter-rail.

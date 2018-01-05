@@ -8,6 +8,7 @@ year: 2000
 issue: 24
 tags: Italiano
 description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Sembra una leggenda metropolitana ma non lo è, essendo documentata dalla facoltà di fisica di Londra. Qualche tempo fa venni chiamato da un collega che mi chiedeva se potevo assisterlo nel valutare una risposta ad una domanda d'esame."
+image: /assets/photos/25.jpg
 ---
 
 Sembra una leggenda metropolitana ma non lo è, essendo documentata dalla facoltà di fisica di Londra.

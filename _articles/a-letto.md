@@ -7,6 +7,7 @@ year: 2000
 issue: 24
 tags: Guide, Italiano
 description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Ma tu guarda... a pensare che volevo scoparmi la tua amica..."
+image: /assets/photos/24.jpg
 ---
 
 

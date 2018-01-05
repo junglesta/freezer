@@ -9,6 +9,7 @@ issue: 26
 tags: Guide, english
 description: "1995>2000. 5 years. 27 free issues. Freezer magazine. This actually happened at Harvard University in October last year.
 In a biology class, the professor was discussing the high glucose levels found in semen. A female freshman raised her hand and asked:"
+image: /assets/photos/27.jpg
 ---
 
 We've all heard the phrase: "you learn something new everyday" ..well, here's today's lesson:

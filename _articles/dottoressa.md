@@ -8,6 +8,7 @@ year: 1999
 issue: 19
 tags: Vissuto, Italiano
 description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Sarò superstiziosa ma, per quanto mi riguarda un viaggio mostra le sue future caratteristiche già dalla partenza. Salire quindi su un aereo della Cubana Airlines, con le pareti interne ricoperte di plastica adesiva finto legno e con i posti a sedere con lo schienale pieghevole, in avanti tipo sedia da picnic"
+image: /assets/photos/27.jpg
 ---
 
 Trovo uno strano gusto macabro raccontando i miei mali.

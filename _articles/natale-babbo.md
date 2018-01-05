@@ -9,6 +9,7 @@ issue: 18
 tags: Italiano
 description: "1995>2000. 5 years. 27 free issues. Freezer magazine.
 Mamma mia che sballo! Mi piacciono le onde ma quest’anno ho bisogno di caldo, America, Florida... Miami."
+image: /assets/photos/25.jpg
 ---
 
 Nessuna specie conosciuta di renna può volare. Ci sono però 300.000 specie di organismi viventi ancora da classificare e, mentre la maggioranza di questi organismi è rappresentata da insetti e germi, questo non esclude completamente l'esistenza di renne volanti, che solo Babbo Natale ha visto.

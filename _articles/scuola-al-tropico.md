@@ -8,6 +8,7 @@ year: 1999
 issue: 22
 tags: Italiano
 description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Mi trovo ad Arugam Bay, con Emi, per un surf trip in Sri Lanka. Lui surfa continuamente ed io ho tutto il tempo libero che voglio, ma qui non c'è assolutamente niente da fare se non fai surf o bodyboard. "
+image: /assets/photos/25.jpg
 ---
 
 ### A Scuola Di Cucito In Un Villaggio Di Pescatori Al Tropico

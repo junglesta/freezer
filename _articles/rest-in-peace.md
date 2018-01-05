@@ -8,6 +8,7 @@ year: 1996
 issue: 9
 tags: Italiano
 description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Erano anni che ti buttavi giù dalle montagne ed ogni volta al ritorno avevi qualche cosa da raccontare. Spesso qualche osso da aggiustare. L'ultima volta la caviglia. "
+image: /assets/photos/25.jpg
 ---
 
 Erano anni che ti buttavi giù dalle montagne ed ogni volta al ritorno avevi qualche cosa da raccontare.

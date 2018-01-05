@@ -9,6 +9,7 @@ issue: 17
 tags: Italiano
 description: "1995>2000. 5 years. 27 free issues. Freezer magazine.
 Arrivo con i miei genitori a Narvik su una barca di lusso entrando nel fiordo da sud della Norvegia. E' un tardo soleggiato pomeriggio, la maggior parte dei passeggeri sono sul ponte a vedere la cittadina avvicinarsi."
+image: /assets/photos/01.jpg
 ---
 
 

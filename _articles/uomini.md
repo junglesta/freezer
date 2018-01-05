@@ -8,6 +8,7 @@ year: 1999
 issue: 22
 tags: Guide, Italiano
 description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Caro freezer, a seguito di un approfondita indagine che dura da anni, fatta da me e da alcune amiche, sono riuscita a dividere gli uomini in categorie. A dire la verità non e' stato molto difficile, dato che siete cosi' prevedibili.. Odiami pure, tanto quanto vi odiamo noi donne quando ci dividete per tipo.."
+image: /assets/photos/24.jpg
 ---
 
 ### Caro freezer, a seguito di un approfondita indagine che dura da anni, fatta da me e da alcune amiche, sono riuscita a dividere gli uomini in categorie. A dire la verità non e' stato molto difficile, dato che siete cosi' prevedibili.. Odiami pure, tanto quanto vi odiamo noi donne quando ci dividete per tipo..

@@ -9,6 +9,7 @@ issue: 12
 tags: Italiano
 description: "1995>2000. 5 years. 27 free issues. Freezer magazine.
 Mamma mia che sballo! Mi piacciono le onde ma quest’anno ho bisogno di caldo, America, Florida... Miami."
+image: /assets/photos/25.jpg
 ---
 
 Accadeva tutto in un tranquillo fine Novembre, a Livigno, quando io e l’amico Silvano Duck Forever decidiamo di ripetere la divertentissima vacanza del ‘95 in Portogallo. Dove andare?

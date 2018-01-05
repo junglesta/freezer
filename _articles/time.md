@@ -8,6 +8,7 @@ year: 1996
 issue: 7
 tags: English
 description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Imagine there is a bank that credits your account everyday. Each morning with $86,400. It carries over no balance from day to day. Every evening it deletes whatever part of the balance you failed to use during the day. "
+image: /assets/photos/02.jpg
 ---
 
 ### Imagine there is a bank that credits your account everyday.
