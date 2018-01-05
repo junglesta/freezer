@@ -7,7 +7,7 @@ language: it
 year: 1998
 issue: 18
 tags: Italiano
-description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Ok. deciso! parto per Los Anna col Sauda, la Betta, il Barone, la Danj, il Frati e i suoi dreads e la Silvia con Pitta con i suoi scleri. Arrivati al campeggio, dopo un lungo e faticoso viaggio fatto di sudore, paranoie e tanta,tanta simpatia,veniamo ghettizzati dai guardiani del camping nella malfamata "area skaters italia", dove confluiscono tutti i peggio maniaci criminali della riviera. poco male!"
+description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Ok. deciso. Parto per Los Anna col Sauda, la Betta, il Barone, la Danj, il Frati e i suoi dreads e la Silvia con Pitta con i suoi scleri. Arrivati al campeggio, dopo un lungo e faticoso viaggio fatto di sudore, paranoie e tanta,tanta simpatia, veniamo ghettizzati dai guardiani del camping nella malfamata area skaters italia, dove confluiscono tutti i peggio maniaci criminali della riviera. poco male!"
 image: /assets/photos/05.jpg
 ---
 
