@@ -7,8 +7,7 @@ language: it
 year: 1999
 issue: 23
 tags: Italiano
-description: "1995>2000. 5 years. 27 free issues. Freezer magazine.
-lo scherzo che mi ha fatto Kikko e qualche altro amico che ho in giro..."
+description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Ormai non ci speravo più di intervistare Jim dei Pennywise. Proprio l'unica volta che mi annoto addirittura le domand, lui non si va ad ammalare? Ho dovuto usare tutta la mia capacità di persuasione per convincere Fletcher che, sì era simpatico, ma io volevo parlare a Jim delle cose che aveva scritto e mica potevo chiederle a qualcun altro!"
 image: /assets/photos/25.jpg
 ---
 

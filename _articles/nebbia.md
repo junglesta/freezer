@@ -7,8 +7,7 @@ language: it
 year: 1998
 issue: 17
 tags: Italiano
-description: "1995>2000. 5 years. 27 free issues. Freezer magazine.
-Noi intanto ci siamo seduti in un posticino al sole e abbiamo cominciato ad aspettare. Koki intanto si allenava a fare una storiella e se la metteva ridendo dentro la sua maschera..."
+description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Noi intanto ci siamo seduti in un posticino al sole e abbiamo cominciato ad aspettare. Koki intanto si allenava a fare una storiella e se la metteva ridendo dentro la sua maschera..."
 image: /assets/photos/25.jpg
 ---
 

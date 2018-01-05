@@ -7,7 +7,7 @@ language: it
 year: 1997
 issue: 14
 tags: Italiano
-description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Ormai non c'è più dubbio. la World Gay Pride si è tenuta a Roma dal 1 al l 9 luglio. Ne dispiaccia al Vaticano, che da mesi, lottava per opporsi in pieno Giubileo. Battaglia lontana del esser finita. Dopo l'ostilità della Santa Sede... "
+description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Da quando l’ho fotografato la prima volta nel ‘89, un contest a Rimini dove sti due bocia venuti fuori dal nulla hanno strabiliato tutti con la facilità e la naturalezza con cui imparavano i trix, la tavola da skate é stata il centro, il mezzo, il passaporto che lo ha cresciuto e messo in contatto con stimoli e esperienze inaccessibili a molti di noi."
 image: /assets/photos/29.jpg
 ---
 

@@ -7,7 +7,7 @@ language: it
 year: 1999
 issue: 23
 tags: Guide, Italiano
-description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Sarò superstiziosa ma, per quanto mi riguarda un viaggio mostra le sue future caratteristiche già dalla partenza. Salire quindi su un aereo della Cubana Airlines, con le pareti interne ricoperte di plastica adesiva finto legno e con i posti a sedere con lo schienale pieghevole, in avanti tipo sedia da picnic"
+description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Non possiamo essere solo amici? / Non ti lascerò per nulla al mondo toccare alcuna parte del mio corpo, ancora..."
 image: /assets/photos/08.jpg
 ---
 

@@ -7,7 +7,7 @@ language: it
 year: 2000
 issue: 24
 tags: Italiano
-description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Ma tu guarda... a pensare che volevo scoparmi la tua amica..."
+description: "1995>2000. 5 years. 27 free issues. Freezer magazine. iamo finiti in Croazia quest’ estate, esattamente nella zona di Sibenik, dove un gruppo di ragazzi ha organizzato un mega rave; il rave più grande della Croazia. Siamo andati a vedere come i croati festeggiano e ci siamo divertiti come dei matti."
 image: /assets/photos/08.jpg
 ---
 

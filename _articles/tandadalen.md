@@ -7,8 +7,8 @@ language: it
 year: 2000
 issue: 24
 tags: Italiano
-description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Col 31.1.2000 scade il segreto. Tandadalen è un nome inventato dall’organizzatore di questa gara di snowboard. Sono sicuro che fosse in una regione continentale a cavallo fra Svezia e Norvegia,"
-image: /assets/photos/01.jpg
+description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Col 31-1-2000 scade il segreto. Tandadalen è un nome inventato dall’organizzatore di questa gara di snowboard. Sono sicuro che fosse in una regione continentale a cavallo fra Svezia e Norvegia,"
+image: /assets/photos/18.jpg
 ---
 
 Tandadalen.. da qualche parte in Scandinavia.

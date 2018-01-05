@@ -7,8 +7,7 @@ language: en
 year: 1999
 issue: 22
 tags: English
-description: "1995>2000. 5 years. 27 free issues. Freezer magazine.
-Pigs rule the world. Pigs dive into the dirt they come from, turn around and squeak in it. Spraying mucus all over those people who are careless enough to come too close."
+description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Pigs rule the world. Pigs dive into the dirt they come from, turn around and squeak in it. Spraying mucus all over those people who are careless enough to come too close."
 image: /assets/photos/01.jpg
 ---
 

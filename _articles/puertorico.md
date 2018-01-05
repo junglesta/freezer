@@ -7,8 +7,7 @@ language: en
 year: 1997
 issue: 12
 tags: Italiano, English
-description: "1995>2000. 5 years. 27 free issues. Freezer magazine.
-Cruising around in Puerto Rico, the jewel of the Caribbean, one of the best places in the world for surfing. Often nothing less than Hawaii but for sure less crowded... "
+description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Cruising around in Puerto Rico, the jewel of the Caribbean, one of the best places in the world for surfing. Often nothing less than Hawaii but for sure less crowded... "
 image: /assets/photos/08.jpg
 ---
 

@@ -7,8 +7,7 @@ language: it
 year: 1999
 issue: 23
 tags: Italiano
-description: "1995>2000. 5 years. 27 free issues. Freezer magazine.
-lo scherzo che mi ha fatto Kikko e qualche altro amico che ho in giro..."
+description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Lo scherzo che mi ha fatto Kikko e qualche altro amico che ho in giro..."
 image: /assets/photos/01.jpg
 ---
 

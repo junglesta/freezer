@@ -8,6 +8,7 @@ year: 1998
 issue: 17
 tags: Italiano
 description: "1995>2000. 5 years. 27 free issues. Freezer magazine. La parola techno nel senso compiuto del termine viene forgiata nel 1987, anche se le radici del movimento sono ben piu' lontane (ma qualcuno di voi che fa finta di fare il giovane, si si tu con la maglia blu e il cappellino, te lo ricordi Giorgio Moroder, Cerrone etc etc?)"
+image: /assets/photos/05.jpg
 
 ---
 

@@ -7,8 +7,7 @@ language: it
 year: 1996
 issue: 11
 tags: Guide, Italiano
-description: "1995>2000. 5 years. 27 free issues. Freezer magazine.
-Pigs rule the world. Pigs dive into the dirt they come from, turn around and squeak in it. Spraying mucus all over those people who are careless enough to come too close."
+description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Mi trovavo con un mio amico nei pressi di via Marocco, quando all’improvviso ci apparve una signorina fasciata in un abito di lame, la quale ancheggiando esclamò: “ciao biondini, volete pucciare la vostra brioche nel mio cappuccino?”. Ai primi attimi di smarrimento si sostituì una calda sensazione di bisogno, quasi una smania di diffondere simpatia, senonché, alla seconda domanda raggelammo! Avevamo già scartato la brioche, e quindi fummo costretti a mangiarla noi, visto che lei, senza la confezione, si ritraeva. Così finì la serata, lasciandoci una consapevolezza... la plastica non ha un buon sapore, ma a volte il contenuto é peggio  Massimo,21,bg "
 image: /assets/photos/25.jpg
 ---
 

@@ -7,8 +7,7 @@ language: it
 year: 2000
 issue: 24
 tags: Italiano
-description: "1995>2000. 5 years. 27 free issues. Freezer magazine.
-Noi intanto ci siamo seduti in un posticino al sole e abbiamo cominciato ad aspettare. Koki intanto si allenava a fare una storiella e se la metteva ridendo dentro la sua maschera..."
+description: "1995>2000. 5 years. 27 free issues. Freezer magazine. La giapponese "Min Chi Ha Ltd", una delle principali società mondiali di minchia, ha lanciato una gigantesca campagna pubblicitaria. Da oggi, ogni volta che riceverai un'email sii felice perché stai per quadagnare minchia. L'unica cosa da fare è rimandare questa email di spiegazione a tutte le persone che conosci per far si che anche loro possano cominciare a guadagnare minchia in un modo così semplice."
 image: /assets/photos/27.jpg
 ---
 

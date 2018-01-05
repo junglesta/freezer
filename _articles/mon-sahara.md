@@ -7,8 +7,7 @@ language: it
 year: 1999
 issue: 23
 tags: Italiano
-description: "1995>2000. 5 years. 27 free issues. Freezer magazine.
-11 ragioni per cui una birra è meglio di una donna. 1. La birra non è gelosa quando ti fai un'altra birra. 2. Puoi condividere una birra con gli amici. 3. Puoi farti una birra in pubblico senza problemi."
+description: "1995>2000. 5 years. 27 free issues. Freezer magazine.La sala dell'ostello pare improvvisamente essere quella notte il posto dove le cose passano, dove, forse, si lasciano passare... e lasciar passare, e rimanere... I due giovani Sahraoui ballano, le braccia protese, una castagnetta in di metallo in ogni mano, nel tripudio delle Derbouka, lo strimpellare secco della chitarra, le pupille figlie del firmamento, fisse e fiere, la pelle tesa come quelle dei loro strumenti."
 image: /assets/photos/08.jpg
 ---
 

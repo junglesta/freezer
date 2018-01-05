@@ -7,8 +7,7 @@ language: it
 year: 1998
 issue: 19
 tags: Italiano
-description: "1995>2000. 5 years. 27 free issues. Freezer magazine.
-11 ragioni per cui una birra è meglio di una donna. 1. La birra non è gelosa quando ti fai un'altra birra. 2. Puoi condividere una birra con gli amici. 3. Puoi farti una birra in pubblico senza problemi."
+description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Secondo il mio modesto parere, più un viaggio è breve e fulmineo, più è facile che diventi una di quelle esperienze che si ricordano per tutta la vita. Una di queste è sicuramente il viaggio che ho fatto assieme a Savigno, Luca, Bazza, Taddo, Casto e Alessio per andare a vederci i mondiali di skateboard (!) a Munster, che in caso non lo sapeste è molto a nord della Germania, diciamo circa 23 ore di macchina (dio santo come abbiamo fatto a metterci così tanto), 12 litri e mezzo di caffè e 2 soste di qualche ora ciascuna di sonno."
 image: /assets/photos/25.jpg
 ---
 

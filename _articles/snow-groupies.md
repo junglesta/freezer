@@ -7,7 +7,7 @@ language: it
 year: 1996
 issue: 10
 tags: Guide, Italiano
-description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Ecco qui un bel rifornito glossarietto dei termini tecnici dello snowboard dedicato a chi si è avvicinato da poco a questo magnifico gioco e vuole saperne di più"
+description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Come catturare il giovane snobbauxer tanto carino che avete addocchiato oggi... Che forse non e’ tanto bravo ma e’ molto carino e mi piacerebbe proprio averci una storia sentimentale come Cenerentola ma non so proprio come e da che parte prenderlo. Ovvero l’arte della seduzione femminile vista, sminuita e ridotta (come il Bignami), con gli occhi di un maturo uomo di esperienza."
 image: /assets/photos/01.jpg
 ---
 

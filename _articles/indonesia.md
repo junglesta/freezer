@@ -7,7 +7,7 @@ language: it
 year: 1999
 issue: 21
 tags: Italiano
-description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Potrebbe anche chiamarsi - Indonesia aditainculo - ma per non essere scurrili è meglio così.  "
+description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Potrebbe anche chiamarsi - Indonesia aditainculo - ma per non essere scurrili è meglio così. Sono partito con intenzione surfistiche. Con Lorca, Christian ed il mitico Cristallino. Tutti Romani de Roma. Loro sono rimasti quindici giorni ed io un mese e mezzo."
 image: /assets/photos/15.jpg
 ---
 

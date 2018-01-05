@@ -7,8 +7,7 @@ language: it
 year: 1997
 issue: 12
 tags: Italiano
-description: "1995>2000. 5 years. 27 free issues. Freezer magazine.
-Mamma mia che sballo! Mi piacciono le onde ma quest’anno ho bisogno di caldo, America, Florida... Miami."
+description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Mamma mia che sballo! Mi piacciono le onde ma quest’anno ho bisogno di caldo, America, Florida... Miami."
 image: /assets/photos/25.jpg
 ---
 

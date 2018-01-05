@@ -7,7 +7,7 @@ language: it
 year: 1999
 issue: 19
 tags: Italiano
-description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Di solito si inizia da giovanissimi, per scherzo, perché lo fanno gli amici più grandi, per sentirsi parte del gruppo..."
+description: "1995>2000. 5 years. 27 free issues. Freezer magazine. Di solito si inizia da giovanissimi, per scherzo, perché lo fanno gli amici più grandi, per sentirsi parte del gruppo Si gioca a fare i grandi e si finisce per convincersi di esserlo davvero, grandi e immaturi. Così vedi gli amici che già hanno iniziato e cominci anche tu. Cominci a fartene una, poi un'altra, finché, senza rendertene conto, prendi il vizio."
 image: /assets/photos/25.jpg
 ---
 

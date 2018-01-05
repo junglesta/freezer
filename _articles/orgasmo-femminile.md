@@ -7,8 +7,7 @@ language: en
 year: 1999
 issue: 22
 tags: English, Italiano
-description: "1995>2000. 5 years. 27 free issues. Freezer magazine.
-L’orgasmo femminile è un argomento sopravvalutato dagli uomini, quindi cari maschietti, vorrei, con questa mia, aiutarvi a togliervi alcune paralizzanti paure e tante infondate paranoie riguardo all'orgasmo femminile."
+description: "1995>2000. 5 years. 27 free issues. Freezer magazine. L’orgasmo femminile è un argomento sopravvalutato dagli uomini, quindi cari maschietti, vorrei, con questa mia, aiutarvi a togliervi alcune paralizzanti paure e tante infondate paranoie riguardo all'orgasmo femminile."
 image: /assets/photos/24.jpg
 ---
 
