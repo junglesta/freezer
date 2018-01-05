@@ -2,6 +2,7 @@
 layout: page
 description: "Qui una selezione di projects diventati articoli. Filtrati via blogspot.com negli ultimi 10 anni. Con un nuovo vestito ora. Sempre Creative Commons of course. Enjoy and deploy!"
 language: it
+image: /assets/photos/24.jpg
 ---
 # Freezer Magazine Projects
 
