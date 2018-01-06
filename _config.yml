@@ -17,7 +17,6 @@ markdown: kramdown
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
- - jekyll-redirect-from
  - jekyll-sitemap
  - html-proofer
 exclude:
