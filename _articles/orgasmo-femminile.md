@@ -3,7 +3,7 @@ layout: article
 title: Orgasmo Femminile? Guida.
 author: Sarava
 icon: she-up
-language: en
+language: it
 year: 1999
 issue: 22
 tags: English, Italiano

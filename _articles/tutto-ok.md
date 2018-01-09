@@ -3,7 +3,7 @@ layout: article
 title: Tutto Ok
 author: Giovanni Bruzzichelli
 icon: she-down
-language: en
+language: it
 year: 1999
 issue: 20
 tags: English
