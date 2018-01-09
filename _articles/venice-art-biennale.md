@@ -3,7 +3,7 @@ layout: article
 title: Venice Art Biennale
 author: Franklin Sirmans
 icon: tv
-language: en
+language: it, en
 year: 1997
 issue: 15
 tags: Italiano, English

@@ -3,7 +3,7 @@ layout: article
 title: Puerto Rico
 author:  Ugo Corte
 icon: surf
-language: en
+language: it, en
 year: 1997
 issue: 12
 tags: Italiano, English

@@ -3,7 +3,7 @@ layout: article
 title: Basta
 author: Rokma e Gros
 icon: tucknee
-language: en
+language: it, en
 year: 1996
 issue: 7
 tags: English, Italiano

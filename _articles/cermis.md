@@ -3,7 +3,7 @@ layout: article
 title: Nato Airplanes In Cermis
 author: Guido Latavola
 icon: skull
-language: en
+language: en, it
 year: 1999
 issue: 20
 tags: English, Italiano
