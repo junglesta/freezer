@@ -773,6 +773,14 @@ blockquote p {
   margin-top: .4rem;
 }
 
+small {
+  font-size: 60%;
+}
+
+.nobreak {
+  white-space: nowrap;
+}
+
 
 /* media queries - 1st breakpoint
 -------------------------------------------------- */

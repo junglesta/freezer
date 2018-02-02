@@ -4,7 +4,14 @@
   <li>
     <a title="{{ article.title }}" href="{{ article.url | prepend: site.baseurl }}">
 
-      <h3>{{ article.title }}</h3>
+      {% capture time %}{{ article.content | reading_time }}{% endcapture %}
+
+      <h3>
+        {{ article.title }}
+        <small class="nobreak"><em>Read in</em>  {{ time }} min</small>
+      </h3>
+
+
 
       <p>{{ article.content | strip_html }}</p>
 

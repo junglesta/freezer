@@ -19,6 +19,7 @@ plugins:
  - jekyll-seo-tag
  - jekyll-sitemap
  - html-proofer
+ - liquid_reading_time
 exclude:
   - Gemfile.lock
 permalink: pretty

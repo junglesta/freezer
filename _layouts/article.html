@@ -35,6 +35,9 @@
           {% if page.tags %}<li><em>Tags</em> {{page.tags}}</li>{% endif %}
           {% if page.issue %}<li><em>Freezer Magazine</em> {{page.issue}}</li>{% endif %}
           {% if page.year %}<li><em>Year</em> {{page.year}}</li>{% endif %}
+
+          {% capture time %}{{ content | reading_time }}{% endcapture %}
+          <li><em>Reading time</em>  {{ time }} {% if time == '1' %}minute{% else %}minutes{% endif %}</li>
         </ul>
 
         <div class="kudoswrap">
