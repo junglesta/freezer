@@ -3,6 +3,7 @@ layout: page
 description: "The Freezer Magazine Experience has been great one thanks to many Authors and Contributors: | It existed with the support of many Sponsors too, indeed. I thank them all in this general way 'cos that's biz. It's imperative and not spontaneous."
 language: en
 image: /assets/photos/25.jpg
+imagerandom: yes
 ---
 # Magazine
 
