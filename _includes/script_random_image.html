@@ -1,3 +1,7 @@
+{% if page.image %}
+
+{{ page.image }}
+
 <script>
 
   // RANDOM image for big screens only
@@ -9,3 +13,21 @@
   elem.classList.add(array[num]);
 
 </script>
+
+
+
+{% else %}
+
+<script>
+
+  // RANDOM image for big screens only
+  var num = (Math.floor(Math.random()*31));
+  var array = ['ya01', 'ya02', 'ya03', 'ya04','ya05', 'ya06', 'ya07', 'ya08', 'ya09', 'ya10', 'ya11', 'ya12', 'ya13', 'ya14', 'ya15', 'ya16', 'ya17', 'ya18', 'ya19', 'ya20', 'ya21', 'ya22', 'ya23', 'ya24', 'ya25', 'ya26', 'ya27', 'ya28', 'ya29', 'ya30', 'ya31'];
+  var elem = document.getElementById('random-image');
+  elem.classList.add(array[num]);
+  var elem = document.getElementById('random-image-caption');
+  elem.classList.add(array[num]);
+
+</script>
+
+{% endif %}
