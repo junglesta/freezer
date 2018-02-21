@@ -1,24 +1,12 @@
-{% if page.image %}
+<!-- {% if page.image %}
 
-<script>
-
-  // RANDOM image for big screens only
-  var num = (Math.floor(Math.random()*1));
-  var array = ['ya{{ page.image | replace: '.jpg','' | replace: '/assets/photos/',''}}'];
-  var elem = document.getElementById('random-image');
-  elem.classList.add(array[num]);
-  var elem = document.getElementById('random-image-caption');
-  elem.classList.add(array[num]);
-
-</script>
-
-{% else %}
+{{ page.image }}
 
 <script>
 
   // RANDOM image for big screens only
   var num = (Math.floor(Math.random()*31));
-  var array = ['ya01', 'ya02', 'ya03', 'ya04','ya05', 'ya06', 'ya07', 'ya08', 'ya09', 'ya10', 'ya11', 'ya12', 'ya13', 'ya14', 'ya15', 'ya16', 'ya17', 'ya18', 'ya19', 'ya20', 'ya21', 'ya22', 'ya23', 'ya24', 'ya25', 'ya26', 'ya27', 'ya28', 'ya29', 'ya30', 'ya31'];
+  var array = ['01', '02', '03', '04','05', '06', '07', '08', '09', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '20', '21', '22', '23', '24', '25', '26', '27', '28', '29', '30', '31'];
   var elem = document.getElementById('random-image');
   elem.classList.add(array[num]);
   var elem = document.getElementById('random-image-caption');
@@ -26,4 +14,20 @@
 
 </script>
 
-{% endif %}
+
+
+{% else %} -->
+
+<script>
+
+  // RANDOM image for big screens only
+  var num = (Math.floor(Math.random()*31));
+  var array = ['01', '02', '03', '04','05', '06', '07', '08', '09', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '20', '21', '22', '23', '24', '25', '26', '27', '28', '29', '30', '31'];
+  var elem = document.getElementById('random-image');
+  elem.classList.add(array[num]);
+  var elem = document.getElementById('random-image-caption');
+  elem.classList.add(array[num]);
+
+</script>
+
+<!-- {% endif %} -->
